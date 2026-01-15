@@ -35,8 +35,10 @@ curso-lideranca-admc/
 ├── 🎬 SLIDES E APRESENTAÇÕES
 │   │
 │   ├── SLIDES-AULA-1.md (Pr. Leivyson Lima)
-│   │   ├─ 35 slides completos
-│   │   ├─ Boas-vindas e tipos de obreiros
+│   │   ├─ 41 slides completos
+│   │   ├─ História ADMC, visão/missão/valores
+│   │   ├─ Base doutrinária e estatuto
+│   │   ├─ Tipos de obreiros (3 João)
 │   │   └─ Dinâmica: Autoavaliação
 │   │
 │   ├── SLIDES-ENCONTRO-1.md (Pb. Adeilson - Aula 2)

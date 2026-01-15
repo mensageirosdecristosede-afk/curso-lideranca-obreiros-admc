@@ -28,10 +28,12 @@ Este é um curso prático e transformador para formar líderes servos que multip
 
 ### AULA 1: Boas-Vindas e Tipos de Obreiros
 *Ministrante: Pr. Leivyson Lima*
-- Boas-vindas e apresentação do curso
-- Visão, missão e valores da ADMC
+- História e estrutura da ADMC (40+ anos, 11 congregações)
+- Visão: "Pregar, edificar, cuidar e servir"
+- Missão, valores e base doutrinária
+- Objetivos estratégicos 2026
+- O obreiro segundo o estatuto
 - Os 4 tipos de obreiros (3 João)
-- Regras e expectativas do curso
 - Dinâmica: Autoavaliação
 
 ### AULA 2: Liderança Servidora
@@ -88,8 +90,8 @@ Este é um curso prático e transformador para formar líderes servos que multip
 ### 📊 SLIDES E APRESENTAÇÕES:
 
 3. **[SLIDES-AULA-1.md](SLIDES-AULA-1.md)** - Pr. Leivyson Lima
-   - Boas-vindas, visão/missão, tipos de obreiros
-   - 35 slides completos
+   - História ADMC, visão/missão, estatuto, tipos de obreiros
+   - 41 slides completos
 
 4. **[SLIDES-ENCONTRO-1.md](SLIDES-ENCONTRO-1.md)** - Pb. Adeilson Araújo (Aula 2)
    - Liderança Servidora

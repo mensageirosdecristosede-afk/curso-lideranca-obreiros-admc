@@ -110,19 +110,31 @@ Este curso foi elaborado a partir de 4 manuais principais:
 ### AULA 1: Boas-Vindas e Tipos de Obreiros (Pr. Leivyson Lima)
 
 **Conteúdo principal:**
-1. Boas-vindas e apresentação do curso
-2. Visão, missão e valores da ADMC Sede
-3. Os 4 tipos de obreiros (baseado em 3 João)
-   - **Gaio**: Serve por amor genuíno
-   - **Diótrefes**: Serve para aparecer
-   - **"Amostração"**: Serve por título
-   - **Demétrio**: Serve para crescer
-4. Regras e expectativas do curso
-5. Dinâmica: Autoavaliação
+1. História da ADMC (fundada pelo Pr. Levy, 40+ anos, 11 congregações)
+2. Compromisso missionário (Missões Kayros e Jocum)
+3. Pilares: EBD forte e Cultos de Ensino
+4. Base doutrinária e estatutária (CGADB)
+5. Visão: "Pregar, edificar, cuidar e servir"
+6. Missão, valores fundamentais
+7. Objetivos estratégicos 2026 (salvação de almas, maturidade)
+8. Liderança (Pr. Boanerges, Pr. Leivyson, Pra Helena)
+9. O obreiro segundo o estatuto (requisitos e deveres)
+10. Os 4 tipos de obreiros (baseado em 3 João)
+    - **Gaio**: Serve por amor genuíno
+    - **Orgulhoso**: Serve para aparecer
+    - **Diótrefes**: Serve por título
+    - **Interesseiro**: Serve para crescer pessoalmente
+    - **Demétrio**: O obreiro ideal
+11. Dinâmica: Autoavaliação
 
 **Versículos-chave:**
-- 3 João 1-12
-- 2 Coríntios 13:5
+- 2 Timóteo 3:16 (Base doutrinária)
+- Provérbios 29:18 (Visão)
+- Mateus 28:19-20 (Missão)
+- Atos 2:42 (Valores)
+- Efésios 4:13 (Maturidade)
+- 1 Timóteo 3:2 (Requisitos do obreiro)
+- 3 João 1-12 (Tipos de obreiros)
 
 ---
 
