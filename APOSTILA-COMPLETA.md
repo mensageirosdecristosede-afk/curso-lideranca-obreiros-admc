@@ -25,6 +25,7 @@
 6. [Aula 5 - Ministério com Crianças](#aula-5---ministério-com-crianças)
 7. [Fichas e Materiais Práticos](#fichas-e-materiais-práticos)
 8. [Versículos-Chave](#versículos-chave)
+9. [Referências Bibliográficas e Inspiração](#referências-bibliográficas-e-inspiração)
 
 ---
 
@@ -1112,6 +1113,129 @@ Eu, __________________________________, diante de Deus, declaro meu compromisso 
 
 > "Porque Tu formaste o meu interior, Tu me teceste no seio de minha mãe. Graças Te dou, visto que por modo assombrosamente maravilhoso me formaste."  
 > **Salmo 139:13-14**
+
+---
+
+\newpage
+
+# REFERÊNCIAS BIBLIOGRÁFICAS E INSPIRAÇÃO
+
+## Líderes Pentecostais - Fundadores do Avivamento
+
+### Gunnar Vingren (1879-1933) - Suécia/Brasil
+Missionário sueco, co-fundador das Assembleias de Deus no Brasil (1911). Chegou em Belém do Pará com Daniel Berg para iniciar um dos maiores movimentos evangélicos da história.
+
+### Daniel Berg (1884-1963) - Suécia/Brasil
+Junto com Gunnar Vingren, fundou as Assembleias de Deus. Dedicou sua vida às missões no Norte do Brasil, evangelizando tribos indígenas e comunidades ribeirinhas.
+
+### Smith Wigglesworth (1859-1947) - Inglaterra
+Conhecido como "Apóstolo da Fé", foi um dos maiores evangelistas de cura divina do século XX. Seu lema: "Somente creia!"
+
+### David Yonggi Cho (1936-2021) - Coreia do Sul
+Pastor da Yoido Full Gospel Church, a maior igreja do mundo com mais de 800 mil membros. Revolucionou a igreja com o sistema de células.
+
+### Reinhard Bonnke (1940-2019) - Alemanha/África
+Evangelista que pregou para milhões na África, com mais de 79 milhões de decisões por Cristo documentadas. Seu lema: "A África será salva!"
+
+---
+
+## Líderes Assembleianos Brasileiros
+
+### Pr. José Wellington Bezerra da Costa
+Ex-presidente da CGADB (Convenção Geral das Assembleias de Deus no Brasil) por 24 anos, promovendo unidade e crescimento do movimento assembleiano.
+
+### Pr. Silas Malafaia
+Pastor, escritor e conferencista, conhecido por sua defesa intransigente da fé cristã e da família tradicional.
+
+### Pr. Samuel Câmara
+Pastor presidente da AD Belém, uma das maiores igrejas do Brasil, com forte ênfase em missões e formação de líderes.
+
+### Missionária Valnice Milhomens
+Uma das mais influentes mulheres do movimento pentecostal brasileiro, conhecida por seu ensino sobre batalha espiritual e intercessão.
+
+### Pr. Cláudio Duarte
+Pastor, conferencista e humorista cristão, conhecido por ensinos práticos sobre família e relacionamentos.
+
+---
+
+## Evangelistas e Ministros Internacionais
+
+### Billy Graham (1918-2018) - EUA
+Considerado o maior evangelista do século XX, pregou para mais de 2,2 bilhões de pessoas ao longo de sua vida. Conhecido por sua integridade e simplicidade.
+
+### Kathryn Kuhlman (1907-1976) - EUA
+Evangelista de cura divina, conhecida por seus cultos de milagres onde milhares eram curados.
+
+### Oral Roberts (1918-2009) - EUA
+Evangelista pentecostal, pioneiro na evangelização televisiva e fundador da Oral Roberts University.
+
+### Leonard Ravenhill (1907-1994) - Inglaterra
+Autor e pregador de avivamento, conhecido por sua ênfase em oração e santidade.
+
+---
+
+## Teólogos e Escritores Cristãos
+
+### A.W. Tozer (1897-1963)
+Pastor e teólogo, autor de "O Conhecimento do Santo" e "Em Busca de Deus".
+
+### Myer Pearlman (1898-1943)
+Teólogo assembleiano, autor de "Conhecendo as Doutrinas da Bíblia", referência no estudo bíblico pentecostal.
+
+### John Maxwell
+Especialista em liderança cristã, autor de mais de 80 livros sobre o tema.
+
+### Rick Warren
+Pastor da Saddleback Church, autor de "Uma Vida com Propósito".
+
+### John Bevere
+Autor e conferencista, conhecido por seus ensinamentos sobre autoridade e submissão.
+
+### Max Lucado
+Pastor e escritor, autor de best-sellers cristãos sobre graça e esperança.
+
+---
+
+## Líderes Bíblicos Mencionados
+
+| Líder | Formou | Referência |
+|-------|--------|------------|
+| Moisés | Josué | Números 27:18 |
+| Elias | Eliseu | 2 Reis 2:9 |
+| Jesus | Os Doze | Mateus 10:1-4 |
+| Paulo | Timóteo | 2 Timóteo 2:2 |
+| Barnabé | Paulo/Marcos | Atos 9:27; 15:39 |
+
+---
+
+## Citações Memoráveis dos Líderes
+
+> *"A medida de um líder não é o número de pessoas que o servem, mas o número de pessoas a quem ele serve."*  
+> **— John Maxwell**
+
+> *"Não existe sucesso sem um sucessor."*  
+> **— Peter Drucker**
+
+> *"Os melhores líderes são aqueles que sabem servir primeiro."*  
+> **— Ken Blanchard**
+
+> *"A tarefa mais importante do líder é desenvolver novos líderes."*  
+> **— Warren Bennis**
+
+> *"Quando Deus te chama, Ele também te capacita."*  
+> **— Kathryn Kuhlman**
+
+> *"A oração não é para conseguir que Deus faça o que queremos. É para descobrir o que Deus quer que façamos."*  
+> **— Leonard Ravenhill**
+
+> *"Somente creia!"*  
+> **— Smith Wigglesworth**
+
+> *"A África será salva!"*  
+> **— Reinhard Bonnke**
+
+> *"Fazer discípulos que fazem discípulos."*  
+> **— David Yonggi Cho**
 
 ---
 

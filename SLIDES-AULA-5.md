@@ -525,6 +525,175 @@ ADMC Sede - 2026
 
 ---
 
+## SLIDES COMPLEMENTARES - REFERÊNCIAS E INSPIRAÇÃO
+
+---
+
+## SLIDE 41 - CRIANÇAS NA BÍBLIA
+
+# 📖 CRIANÇAS NA BÍBLIA
+
+### Exemplos de crianças usadas por Deus:
+
+| Criança | História | Referência |
+|---------|----------|------------|
+| **Samuel** | Chamado por Deus no templo | 1 Samuel 3 |
+| **Davi** | Derrotou Golias | 1 Samuel 17 |
+| **Josias** | Rei aos 8 anos | 2 Reis 22 |
+| **Menino com pães** | Alimentou multidão | João 6:9 |
+| **Timóteo** | Aprendeu desde a infância | 2 Timóteo 3:15 |
+
+> *"Ensina a criança no caminho em que deve andar, e, ainda quando for velha, não se desviará dele."*  
+> **Provérbios 22:6**
+
+---
+
+## SLIDE 42 - LÍDERES SOBRE CRIANÇAS
+
+# 💬 O QUE DIZEM OS GRANDES LÍDERES
+
+> *"Invista nas crianças hoje, e amanhã você terá uma igreja forte."*  
+> **— Pr. Silas Malafaia**
+
+> *"Se ganharmos as crianças, ganharemos o futuro."*  
+> **— Billy Graham**
+
+> *"O ministério infantil não é um passatempo, é prioridade do Reino."*  
+> **— Max Lucado**
+
+---
+
+## SLIDE 43 - VERSÍCULOS SOBRE CRIANÇAS
+
+# 📖 MAIS FUNDAMENTOS BÍBLICOS
+
+> *"E todos os teus filhos serão ensinados do Senhor; e grande será a paz de teus filhos."*  
+> **Isaías 54:13**
+
+> *"Criai os vossos filhos na doutrina e admoestação do Senhor."*  
+> **Efésios 6:4**
+
+> *"E estas palavras que hoje te ordeno estarão no teu coração; e as intimarás a teus filhos."*  
+> **Deuteronômio 6:6-7**
+
+---
+
+## SLIDE 44 - JESUS COMO CRIANÇA
+
+# 👶 O EXEMPLO DE JESUS CRIANÇA
+
+> *"E crescia Jesus em sabedoria, em estatura e em graça diante de Deus e dos homens."*  
+> **Lucas 2:52**
+
+### O crescimento integral:
+- 📖 **Sabedoria** — Conhecimento e entendimento
+- 📏 **Estatura** — Desenvolvimento físico
+- 🙏 **Graça diante de Deus** — Vida espiritual
+- 🤝 **Graça diante dos homens** — Relacionamentos
+
+---
+
+## SLIDE 45 - INCLUSÃO NA BÍBLIA
+
+# 📖 INCLUSÃO NA BÍBLIA
+
+> *"Porque para Deus não há acepção de pessoas."*  
+> **Romanos 2:11**
+
+> *"Amai-vos cordialmente uns aos outros com amor fraternal."*  
+> **Romanos 12:10**
+
+> *"Assim como o corpo é um, e tem muitos membros... assim também Cristo."*  
+> **1 Coríntios 12:12**
+
+### Toda criança é especial aos olhos de Deus!
+
+---
+
+## SLIDE 46 - TESTEMUNHOS DE MINISTÉRIO
+
+# 🌟 MINISTÉRIOS QUE INSPIRAM
+
+### Ministérios infantis que marcaram:
+
+- **Tia Cesca** (Valnice Milhomens) — Ensino bíblico para crianças
+- **APEC** — Evangelização de crianças
+- **Missionária Geziel** — Cruzada infantil
+- **Pr. Josué Yrion** — Ministério família
+
+> *"Não desprezeis qualquer destes pequeninos, porque vos digo que seus anjos nos céus sempre veem a face de meu Pai."*  
+> **Mateus 18:10**
+
+---
+
+## SLIDE 47 - VERSÍCULOS DE ENCERRAMENTO
+
+# 📖 VERSÍCULOS PARA MEMORIZAR
+
+### Sobre o chamado:
+> *"Antes que te formasse no ventre te conheci; e antes que saísses da madre, te santifiquei."*  
+> **Jeremias 1:5**
+
+### Sobre ser aprovado:
+> *"Procura apresentar-te a Deus aprovado, como obreiro que não tem de que se envergonhar."*  
+> **2 Timóteo 2:15**
+
+### Sobre o galardão:
+> *"Bem-aventurado o servo que o Senhor, quando vier, achar fazendo assim."*  
+> **Mateus 24:46**
+
+---
+
+## SLIDE 48 - GRANDES LÍDERES
+
+# 🌟 GIGANTES QUE NOS INSPIRAM
+
+### Líderes pentecostais que marcaram história:
+
+**Internacionais:**
+- **Gunnar Vingren & Daniel Berg** — Fundadores AD Brasil
+- **Smith Wigglesworth** — Apóstolo da Fé
+- **Reinhard Bonnke** — 79 milhões de decisões
+
+**Brasileiros:**
+- **Pr. José Wellington** — Estadista assembleiano
+- **Miss. Valnice** — Ensino profundo
+- **Pr. Hernandes Dias Lopes** — Expositor bíblico
+
+---
+
+## SLIDE 49 - FRASES FINAIS
+
+# 💬 FRASES PARA LEVAR PARA CASA
+
+> *"O sucesso de um líder é medido pelo seu sucessor."*  
+> **— Reinhard Bonnke**
+
+> *"A maior honra de um líder é formar outro líder melhor que ele."*  
+> **— John Maxwell**
+
+> *"Não ore por tarefas iguais às suas forças. Ore por forças iguais às suas tarefas."*  
+> **— Phillips Brooks**
+
+---
+
+## SLIDE 50 - CONCLUSÃO DO CURSO
+
+# 🎯 O QUE APRENDEMOS NAS 5 AULAS
+
+| Aula | Princípio Central |
+|------|-------------------|
+| **1** | Seja como **Gaio e Demétrio**, não como Diótrefes |
+| **2** | **Servir é liderar**, liderar é servir |
+| **3** | **Multiplique líderes**, não apenas seguidores |
+| **4** | **Submissão e fidelidade** honram a Deus |
+| **5** | **Todas as crianças** são herança do Senhor |
+
+> *"Fostes chamados para a liberdade, servindo uns aos outros pelo amor."*  
+> **Gálatas 5:13**
+
+---
+
 ## NOTAS PARA O MINISTRANTE
 
 ### Materiais necessários:
@@ -536,9 +705,10 @@ ADMC Sede - 2026
 ### Dicas de condução:
 1. No tema das crianças especiais, seja sensível
 2. Use exemplos sem expor famílias
-3. Na dinâmica, deixe os grupos discutirem
-4. Na formatura, faça momento especial
-5. Ore com imposição de mãos
+3. Nos slides de referências, conte brevemente histórias inspiradoras
+4. Na dinâmica, deixe os grupos discutirem
+5. Na formatura, faça momento especial
+6. Ore com imposição de mãos
 
 ### Tempo por bloco:
 - Abertura: 15min
@@ -546,10 +716,11 @@ ADMC Sede - 2026
 - Crianças Especiais: 45min
 - Intervalo: 15min
 - Segurança/Proteção: 30min
-- Dinâmica: 20min
+- Referências e Inspiração: 15min
+- Dinâmica: 15min
 - Formatura: 30min
 
-**Total:** ~3h (com formatura)
+**Total:** ~3h15 (com formatura)
 
 ### Para a formatura:
 1. Chame cada formando pelo nome
@@ -563,3 +734,39 @@ ADMC Sede - 2026
 - Não use termos pejorativos
 - Enfatize inclusão e amor
 - Lembre que o tema é delicado para algumas famílias
+
+### Versículos-chave mencionados:
+- Marcos 10:14 (Deixai vir os pequeninos)
+- Mateus 18:3 (Tornar-se como crianças)
+- Salmo 127:3 (Herança do Senhor)
+- Provérbios 22:6 (Ensina a criança)
+- 1 Samuel 3 (Samuel)
+- 2 Timóteo 3:15 (Timóteo desde infância)
+- Isaías 54:13 (Filhos ensinados)
+- Efésios 6:4 (Criar na doutrina)
+- Deuteronômio 6:6-7 (Intimar aos filhos)
+- Lucas 2:52 (Jesus crescendo)
+- Romanos 2:11 (Sem acepção)
+- 1 Coríntios 12:12 (Corpo e membros)
+- Mateus 18:10 (Anjos das crianças)
+- Jeremias 1:5 (Chamado)
+- 2 Timóteo 2:15 (Obreiro aprovado)
+- Mateus 24:46 (Servo fiel)
+- Gálatas 5:13 (Servir pelo amor)
+
+### Líderes Citados:
+**Internacionais:**
+- Billy Graham
+- Max Lucado
+- Reinhard Bonnke
+- John Maxwell
+- Phillips Brooks
+- Smith Wigglesworth
+
+**Brasileiros:**
+- Pr. Silas Malafaia
+- Pr. José Wellington
+- Miss. Valnice Milhomens
+- Pr. Hernandes Dias Lopes
+- Tia Cesca (Valnice)
+- Pr. Josué Yrion

@@ -578,6 +578,165 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
+## SLIDES COMPLEMENTARES - REFERÊNCIAS E INSPIRAÇÃO
+
+---
+
+## SLIDE 42 - LEGADO PENTECOSTAL
+
+# 🔥 NOSSO LEGADO PENTECOSTAL
+
+### Fundadores das Assembleias de Deus no Brasil
+
+**Gunnar Vingren** (1879-1933) e **Daniel Berg** (1884-1963)
+- Chegaram em Belém do Pará em **19 de novembro de 1910**
+- Vinham da Suécia, passando pelos EUA
+- Começaram com **19 membros** batistas
+- Hoje: **mais de 60 milhões** de assembleianos no Brasil
+
+> *"Se Deus nos chamou, Ele nos capacitará."*  
+> **— Gunnar Vingren**
+
+---
+
+## SLIDE 43 - EXEMPLOS DE FÉ
+
+# 🌟 GIGANTES DA FÉ PENTECOSTAL
+
+### Líderes que marcaram gerações:
+
+| Líder | Ministério | Legado |
+|-------|-----------|--------|
+| **Smith Wigglesworth** | Apóstolo da Fé | Curas e milagres |
+| **David Yonggi Cho** | Coreia do Sul | Maior igreja do mundo (800 mil) |
+| **Reinhard Bonnke** | África | 79 milhões de decisões |
+| **Kathryn Kuhlman** | EUA | Ministério de cura |
+| **Oral Roberts** | EUA | Universidade e TV |
+
+---
+
+## SLIDE 44 - LÍDERES BRASILEIROS
+
+# 🇧🇷 GIGANTES DA FÉ NO BRASIL
+
+### Homens e mulheres que inspiram:
+
+- **Pr. José Wellington Bezerra da Costa** — 24 anos liderando a CGADB
+- **Pr. Silas Malafaia** — Pregação ousada e defesa da fé
+- **Pr. Samuel Câmara** — Assembleia de Deus em Belém
+- **Miss. Valnice Milhomens** — Ensino bíblico profundo
+- **Pr. Cláudio Duarte** — Alcançando famílias
+- **Pr. Hernandes Dias Lopes** — Exposição bíblica fiel
+
+> *"A igreja que não evangeliza, fossiliza."*  
+> **— Pr. José Wellington**
+
+---
+
+## SLIDE 45 - CITAÇÕES MEMORÁVEIS
+
+# 💬 FRASES QUE TRANSFORMAM
+
+> *"A fé não é uma força que usamos, é um relacionamento que cultivamos."*  
+> **— Smith Wigglesworth**
+
+> *"Oração não é preparação para a batalha; oração É a batalha."*  
+> **— Leonard Ravenhill**
+
+> *"O maior avivamento é aquele que começa em mim."*  
+> **— Reinhard Bonnke**
+
+---
+
+## SLIDE 46 - MAIS CITAÇÕES
+
+# 💬 SABEDORIA DOS PIONEIROS
+
+> *"Não existe chamado pequeno. Todo serviço a Deus é grande."*  
+> **— Daniel Berg**
+
+> *"O Espírito Santo não veio para nos fazer famosos, mas fiéis."*  
+> **— A.W. Tozer**
+
+> *"Deus não busca pessoas capacitadas, Ele capacita os chamados."*  
+> **— Myer Pearlman**
+
+---
+
+## SLIDE 47 - VERSÍCULOS ADICIONAIS
+
+# 📖 MAIS FUNDAMENTOS BÍBLICOS
+
+### Sobre o Chamado:
+> *"Não fostes vós que me escolhestes, mas eu vos escolhi e vos designei."*  
+> **João 15:16**
+
+### Sobre Fidelidade:
+> *"O que se requer dos despenseiros é que cada um seja encontrado fiel."*  
+> **1 Coríntios 4:2**
+
+### Sobre Humildade:
+> *"Humilhai-vos na presença do Senhor, e Ele vos exaltará."*  
+> **Tiago 4:10**
+
+---
+
+## SLIDE 48 - VERSÍCULOS SOBRE SERVIÇO
+
+# 📖 A BÍBLIA SOBRE SERVIR
+
+> *"Quem quiser ser o maior entre vós, seja vosso servo."*  
+> **Mateus 20:26**
+
+> *"Servi uns aos outros pelo amor."*  
+> **Gálatas 5:13**
+
+> *"Cada um exerça o dom que recebeu para servir os outros."*  
+> **1 Pedro 4:10**
+
+> *"Tudo quanto fizerdes, fazei-o de coração, como para o Senhor."*  
+> **Colossenses 3:23**
+
+---
+
+## SLIDE 49 - PADRÃO DO OBREIRO
+
+# 📜 O PADRÃO BÍBLICO DO OBREIRO
+
+### 1 Timóteo 3:1-13 e Tito 1:5-9
+
+**Qualidades exigidas:**
+- Irrepreensível (sem manchas)
+- Esposo de uma só mulher
+- Temperante e sóbrio
+- Hospitaleiro
+- Apto para ensinar
+- Não dado ao vinho
+- Não violento, mas gentil
+- Não ganancioso
+- Governa bem a própria casa
+- Não neófito (novo na fé)
+- Boa reputação com os de fora
+
+---
+
+## SLIDE 50 - REFLEXÃO FINAL
+
+# 🎯 O OBREIRO QUE DEUS BUSCA
+
+> *"Busquei entre eles um homem que tapasse o muro e se colocasse na brecha perante mim, a favor desta terra, para que eu não a destruísse; mas a ninguém achei."*  
+> **Ezequiel 22:30**
+
+### Deus está buscando:
+- Obreiros **comprometidos**, não conveniados
+- Líderes **servos**, não senhores
+- Pessoas **fiéis**, não famosas
+- Trabalhadores **preparados**, não improvisados
+
+**VOCÊ SERÁ ESSA PESSOA?**
+
+---
+
 ## NOTAS PARA O MINISTRANTE
 
 ### Materiais necessários:
@@ -590,8 +749,9 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 1. Na apresentação, incentive todos a falarem
 2. Nos slides sobre a igreja, destaque a história e missão
 3. No tema dos tipos de obreiros, use exemplos práticos (sem citar nomes)
-4. Na dinâmica, crie ambiente reverente
-5. No encerramento, ore com imposição de mãos nos que desejarem
+4. Nos slides sobre líderes pentecostais, compartilhe histórias inspiradoras
+5. Na dinâmica, crie ambiente reverente
+6. No encerramento, ore com imposição de mãos nos que desejarem
 
 ### Tempo por bloco:
 - Abertura: 15min
@@ -600,10 +760,11 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 - Estrutura do curso: 10min
 - Intervalo: 15min
 - Tipos de Obreiros: 40min
+- Referências e Inspiração: 15min
 - Dinâmica: 15min
 - Encerramento: 15min
 
-**Total:** ~2h40
+**Total:** ~2h55
 
 ### Versículos-chave mencionados:
 - 2 Timóteo 3:16 (Base doutrinária)
@@ -613,3 +774,33 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 - Efésios 4:13 (Objetivos)
 - 1 Timóteo 3:2 (Requisitos do obreiro)
 - Efésios 2:20 (Lema do ano)
+- João 15:16 (Chamado)
+- 1 Coríntios 4:2 (Fidelidade)
+- Tiago 4:10 (Humildade)
+- Mateus 20:26 (Servir)
+- Gálatas 5:13 (Servir pelo amor)
+- 1 Pedro 4:10 (Dons para servir)
+- Colossenses 3:23 (De coração)
+- Ezequiel 22:30 (Na brecha)
+- 1 Timóteo 3:1-13 (Qualidades do obreiro)
+- Tito 1:5-9 (Padrão do presbítero)
+
+### Líderes Pentecostais Citados:
+**Internacionais:**
+- Gunnar Vingren e Daniel Berg (Fundadores AD Brasil)
+- Smith Wigglesworth (Apóstolo da Fé)
+- David Yonggi Cho (Maior igreja do mundo)
+- Reinhard Bonnke (Evangelista na África)
+- Kathryn Kuhlman (Ministério de cura)
+- Oral Roberts (Pioneiro na TV)
+- Leonard Ravenhill (Avivamento e oração)
+- A.W. Tozer (Teólogo pentecostal)
+- Myer Pearlman (Teólogo assembleiano)
+
+**Brasileiros:**
+- Pr. José Wellington Bezerra da Costa
+- Pr. Silas Malafaia
+- Pr. Samuel Câmara
+- Miss. Valnice Milhomens
+- Pr. Cláudio Duarte
+- Pr. Hernandes Dias Lopes

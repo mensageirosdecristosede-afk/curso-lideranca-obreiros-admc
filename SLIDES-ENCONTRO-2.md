@@ -638,9 +638,146 @@ e que seus liderados sejam fruto que permanece.
 
 ---
 
+---
+
+## 📌 SLIDES COMPLEMENTARES - REFERÊNCIAS E INSPIRAÇÃO
+
+---
+
+## 🔥 SLIDE 47: EXEMPLOS BÍBLICOS DE MULTIPLICAÇÃO
+
+# 📖 QUEM MULTIPLICOU NA BÍBLIA?
+
+### Moisés → Josué
+> *"O Senhor disse a Moisés: 'Tome Josué... homem em quem há o Espírito, e imponha-lhe as mãos.'"*  
+> **Números 27:18**
+
+### Elias → Eliseu
+> *"Eliseu disse: Peço-te que haja porção dobrada do teu espírito sobre mim."*  
+> **2 Reis 2:9**
+
+### Jesus → Os Doze → Os Setenta → Multidões
+
+### Paulo → Timóteo → Homens Fiéis → Outros
+
+---
+
+## 💬 SLIDE 48: CITAÇÕES SOBRE MULTIPLICAÇÃO
+
+# 🌟 SABEDORIA DE GRANDES LÍDERES
+
+> *"O verdadeiro sucesso não é o que você conquista, mas o que você constrói nas outras pessoas."*  
+> **— John Maxwell**
+
+> *"A tarefa mais importante do líder é desenvolver novos líderes."*  
+> **— Warren Bennis**
+
+> *"Não existe sucesso sem um sucessor."*  
+> **— Peter Drucker**
+
+---
+
+## 🔥 SLIDE 49: LÍDERES PENTECOSTAIS QUE MULTIPLICARAM
+
+# 🏆 GIGANTES QUE FORMARAM GERAÇÕES
+
+### Gunnar Vingren & Daniel Berg
+- Fundaram as Assembleias de Deus no Brasil (1911)
+- **Legado:** Milhões de vidas transformadas, milhares de igrejas
+
+### David Yonggi Cho
+- Criou o sistema de células que revolucionou a igreja
+- **Princípio:** "Faça discípulos que façam discípulos"
+
+### Pr. José Wellington Bezerra da Costa
+- Formou uma geração de líderes assembleianos
+- **Lema:** "Unidade na diversidade"
+
+---
+
+## 📖 SLIDE 50: VERSÍCULOS SOBRE DELEGAÇÃO E FORMAÇÃO
+
+# 📖 A PALAVRA SOBRE MULTIPLICAR
+
+> *"E os apóstolos, ajuntando uma grande multidão de discípulos, disseram: Não é razoável que nós deixemos a palavra de Deus e sirvamos às mesas."*  
+> **Atos 6:2**
+
+> *"E os que criam iam crescendo e multiplicando-se."*  
+> **Atos 9:31**
+
+> *"De sorte que foram fortificadas na fé as igrejas, e cada dia cresciam em número."*  
+> **Atos 16:5**
+
+---
+
+## 💬 SLIDE 51: MAIS INSPIRAÇÕES
+
+# 💡 PALAVRAS PARA O CORAÇÃO
+
+> *"A grandeza de uma liderança não se mede pelo número de seguidores, mas pelo número de líderes que ela produz."*  
+> **— Pr. Cláudio Duarte**
+
+> *"Um líder produz seguidores. Um grande líder produz líderes."*  
+> **— Rick Warren**
+
+> *"A visão que não se multiplica, morre."*  
+> **— Pr. Samuel Câmara**
+
+---
+
+## 🌾 SLIDE 52: A VISÃO DE ALCANCE
+
+# 📖 VERSÍCULOS SOBRE ALCANCE E EVANGELISMO
+
+> *"Ide por todo o mundo, e pregai o evangelho a toda criatura."*  
+> **Marcos 16:15**
+
+> *"Mas recebereis poder quando descer sobre vós o Espírito Santo, e sereis minhas testemunhas."*  
+> **Atos 1:8**
+
+> *"E o Senhor acrescentava à igreja aqueles que se haviam de salvar."*  
+> **Atos 2:47**
+
+---
+
+## 🔥 SLIDE 53: EVANGELISTAS QUE INSPIRAM
+
+# 🌍 SERVOS QUE ALCANÇARAM MULTIDÕES
+
+### Reinhard Bonnke (1940-2019)
+- 79 milhões de decisões por Cristo na África
+- **Frase:** "A África será salva!"
+
+### Billy Graham (1918-2018)
+- Pregou para 2,2 bilhões de pessoas
+- **Legado:** Integridade e simplicidade
+
+### Smith Wigglesworth (1859-1947)
+- Conhecido como "Apóstolo da Fé"
+- **Princípio:** "Somente creia!"
+
+---
+
+## 📖 SLIDE 54: REFLEXÃO FINAL - O LEGADO
+
+# 💎 QUE LEGADO VOCÊ DEIXARÁ?
+
+> *"Eu combati o bom combate, acabei a carreira, guardei a fé."*  
+> **2 Timóteo 4:7**
+
+### Perguntas para reflexão:
+- Quem você está formando hoje?
+- Qual será seu legado daqui a 10 anos?
+- Se você não estivesse mais aqui, o trabalho continuaria?
+
+> *"O fruto do justo é árvore de vida, e o que ganha almas é sábio."*  
+> **Provérbios 11:30**
+
+---
+
 # FIM DOS SLIDES - ENCONTRO 2
 
-**Total: 46 slides**  
+**Total: 54 slides**  
 **Duração estimada: 3 horas (com dinâmica e intervalos)**
 
 ---
@@ -680,6 +817,44 @@ e que seus liderados sejam fruto que permanece.
 - Entregar certificados com abraço personalizado
 - Tirar foto oficial antes que saiam
 - Ter o Pacto de Liderança impresso e bonito
+
+### Slides 47-54: COMPLEMENTARES - REFERÊNCIAS (15min opcional)
+- Usar para enriquecer discussões
+- Contar histórias dos líderes citados
+- Ler versículos sobre multiplicação
+- Inspirar com exemplos de evangelistas
+
+### Versículos-chave mencionados:
+- 2 Timóteo 2:2 (Transmitir a homens fiéis)
+- Mateus 9:37 (Seara grande, trabalhadores poucos)
+- Marcos 10:44 (Ser servo de todos)
+- Números 27:18 (Moisés e Josué)
+- 2 Reis 2:9 (Elias e Eliseu)
+- Atos 6:2 (Delegação dos apóstolos)
+- Atos 9:31 (Igreja crescendo e multiplicando)
+- Atos 16:5 (Igrejas fortificadas)
+- Marcos 16:15 (Grande comissão)
+- Atos 1:8 (Testemunhas)
+- Atos 2:47 (Senhor acrescentando)
+- 2 Timóteo 4:7 (Bom combate)
+- Provérbios 11:30 (Ganha almas é sábio)
+
+### Líderes Citados:
+**Teóricos de Liderança:**
+- John Maxwell (Liderança)
+- Warren Bennis (Gestão)
+- Peter Drucker (Administração)
+- Rick Warren (Propósito)
+
+**Pentecostais/Evangelistas:**
+- Gunnar Vingren & Daniel Berg (Fundadores AD Brasil)
+- David Yonggi Cho (Maior igreja do mundo)
+- Pr. José Wellington Bezerra da Costa (CGADB)
+- Reinhard Bonnke (Evangelista África)
+- Billy Graham (Evangelista mundial)
+- Smith Wigglesworth (Apóstolo da Fé)
+- Pr. Cláudio Duarte
+- Pr. Samuel Câmara
 
 ---
 

@@ -475,6 +475,139 @@ Vamos aprender sobre:
 
 ---
 
+## 📌 SLIDES COMPLEMENTARES - REFERÊNCIAS E INSPIRAÇÃO
+
+---
+
+## 🔥 SLIDE 37: LÍDERES QUE SERVIRAM
+
+# 💬 EXEMPLOS DE LÍDERES SERVOS
+
+### Jesus - O modelo perfeito:
+> *"Pois o próprio Filho do homem não veio para ser servido, mas para servir e dar a sua vida em resgate de muitos."*  
+> **Marcos 10:45**
+
+### Paulo - O apóstolo servo:
+> *"Fiz-me servo de todos, para ganhar ainda mais."*  
+> **1 Coríntios 9:19**
+
+### Pedro - O pastor servo:
+> *"Pastoreiem o rebanho de Deus... não por obrigação, mas de livre vontade."*  
+> **1 Pedro 5:2**
+
+---
+
+## 💬 SLIDE 38: CITAÇÕES SOBRE SERVIR
+
+# 🌟 O QUE OS GRANDES LÍDERES DIZEM
+
+> *"A medida de um líder não é o número de pessoas que o servem, mas o número de pessoas a quem ele serve."*  
+> **— John Maxwell**
+
+> *"Os melhores líderes são aqueles que sabem servir primeiro."*  
+> **— Ken Blanchard**
+
+> *"Liderar é servir. Nada mais, nada menos."*  
+> **— Robert Greenleaf**
+
+---
+
+## 📖 SLIDE 39: VERSÍCULOS SOBRE LIDERANÇA SERVIDORA
+
+# 📖 FUNDAMENTOS BÍBLICOS
+
+> *"Quem quiser ser o maior entre vós, seja vosso servo."*  
+> **Mateus 20:26**
+
+> *"Nada façais por contenda ou vanglória, mas por humildade."*  
+> **Filipenses 2:3**
+
+> *"Porque eu vos dei o exemplo, para que, como eu vos fiz, façais vós também."*  
+> **João 13:15**
+
+---
+
+## 🌟 SLIDE 40: LÍDERES PENTECOSTAIS QUE INSPIRAM
+
+# 🔥 GIGANTES DA FÉ QUE SERVIRAM
+
+### David Yonggi Cho (Coreia do Sul)
+- Construiu a maior igreja do mundo (800 mil membros)
+- **Segredo:** Grupos de células e liderança servidora
+
+### Reinhard Bonnke (Alemanha/África)
+- 79 milhões de decisões por Cristo
+- **Lema:** "África será salva!"
+
+### Pr. José Wellington (Brasil)
+- Liderou a CGADB por 24 anos
+- Construiu unidade no movimento assembleiano
+
+---
+
+## 💬 SLIDE 41: MAIS CITAÇÕES MEMORÁVEIS
+
+# 💡 SABEDORIA PARA O CORAÇÃO
+
+> *"Se você quer ir rápido, vá sozinho. Se quer ir longe, vá acompanhado."*  
+> **— Provérbio Africano**
+
+> *"Antes de ser grande líder, seja grande servo."*  
+> **— Pr. Silas Malafaia**
+
+> *"O verdadeiro líder é aquele que se preocupa mais com o bem das pessoas do que com a própria imagem."*  
+> **— A.W. Tozer**
+
+---
+
+## 📖 SLIDE 42: A BÍBLIA SOBRE FORMAR OUTROS
+
+# 📖 MULTIPLICAÇÃO NA PALAVRA
+
+> *"O que de mim ouviste transmite a homens fiéis, que sejam também idôneos para ensinar a outros."*  
+> **2 Timóteo 2:2**
+
+> *"E tomou a Moisés o seu sogro... escolhendo varões capazes... e fê-los cabeças sobre o povo."*  
+> **Êxodo 18:25**
+
+> *"Eu plantei, Apolo regou, mas Deus deu o crescimento."*  
+> **1 Coríntios 3:6**
+
+---
+
+## 🏆 SLIDE 43: CARACTERÍSTICAS DO LÍDER SERVO
+
+# ✅ O LÍDER SERVO NA PRÁTICA
+
+> *"Não atentando cada um para o que é propriamente seu, mas cada qual também para o que é dos outros."*  
+> **Filipenses 2:4**
+
+### Ele:
+- 🤲 **Serve antes de pedir serviço**
+- 👂 **Ouve antes de falar**
+- 🎯 **Desenvolve antes de cobrar**
+- ❤️ **Ama antes de liderar**
+- 🙏 **Ora antes de agir**
+
+---
+
+## 📸 SLIDE 44: OBRIGADO!
+
+### Até o próximo encontro!
+
+**Dúvidas? Conversem com a liderança.**
+
+**Que Deus abençoe cada um de vocês!**
+
+---
+
+# FIM DOS SLIDES - ENCONTRO 1
+
+**Total: 44 slides**  
+**Duração estimada: 3 horas (com dinâmica e intervalos)**
+
+---
+
 ## 📌 NOTAS PARA O APRESENTADOR:
 
 ### Slide 1-5: ABERTURA (30min)
@@ -502,7 +635,38 @@ Vamos aprender sobre:
 - Circular entre os grupos
 - Gerenciar o tempo para garantir compartilhamento final
 
-### Slides 31-36: ENCERRAMENTO (10min)
+### Slides 31-36: PRINCIPAL (10min)
 - Não apressar a oração final
 - Tirar foto da turma
 - Confirmar data do próximo encontro
+
+### Slides 37-44: COMPLEMENTARES - REFERÊNCIAS (15min opcional)
+- Usar para enriquecer discussões
+- Contar histórias dos líderes citados
+- Ler versículos em voz alta
+- Discutir citações
+
+### Versículos-chave mencionados:
+- Mateus 9:37-38 (Trabalhadores)
+- Marcos 10:45 (Jesus veio servir)
+- 1 Coríntios 9:19 (Paulo servo)
+- 1 Pedro 5:2 (Pastorear)
+- Mateus 20:26 (Maior seja servo)
+- Filipenses 2:3-4 (Humildade)
+- João 13:15 (Exemplo de Jesus)
+- 2 Timóteo 2:2 (Ensinar outros)
+- Êxodo 18:25 (Moisés delegando)
+- 1 Coríntios 3:6 (Plantar e regar)
+
+### Líderes Citados:
+**Internacionais:**
+- John Maxwell (Liderança)
+- Ken Blanchard (Liderança servidora)
+- Robert Greenleaf (Servant Leadership)
+- David Yonggi Cho (Maior igreja do mundo)
+- Reinhard Bonnke (Evangelista)
+
+**Brasileiros:**
+- Pr. José Wellington Bezerra da Costa
+- Pr. Silas Malafaia
+- A.W. Tozer (Teólogo)

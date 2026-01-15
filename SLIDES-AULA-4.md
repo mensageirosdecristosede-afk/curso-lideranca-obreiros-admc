@@ -520,31 +520,207 @@ A fidelidade na mordomia cristã
 
 ---
 
+## SLIDES COMPLEMENTARES - REFERÊNCIAS E INSPIRAÇÃO
+
+---
+
+## SLIDE 40 - EXEMPLOS DE SUBMISSÃO
+
+# 📖 EXEMPLOS BÍBLICOS DE SUBMISSÃO
+
+### Jesus - O maior exemplo
+> *"Não se faça a minha vontade, mas a Tua."*  
+> **Lucas 22:42**
+
+### Davi - Submetido a Saul
+- Não levantou a mão contra o ungido do Senhor (1 Samuel 24:6)
+
+### Timóteo - Submetido a Paulo
+> *"Mas vós sabeis o caráter aprovado dele, como filho ao pai, serviu comigo no evangelho."*  
+> **Filipenses 2:22**
+
+---
+
+## SLIDE 41 - LÍDERES SOBRE SUBMISSÃO
+
+# 💬 O QUE OS GRANDES LÍDERES DIZEM
+
+> *"Submissão não é fraqueza, é a força de quem confia em Deus mais do que em si mesmo."*  
+> **— Pr. José Wellington**
+
+> *"Um líder que não aprendeu a se submeter, não está pronto para liderar."*  
+> **— Billy Graham**
+
+> *"A maior liberdade vem quando escolhemos nos colocar debaixo da autoridade que Deus estabeleceu."*  
+> **— John Bevere**
+
+---
+
+## SLIDE 42 - VERSÍCULOS SOBRE SUBMISSÃO
+
+# 📖 MAIS FUNDAMENTOS BÍBLICOS
+
+> *"Obedecei a vossos pastores, e sujeitai-vos a eles; porque velam por vossa alma."*  
+> **Hebreus 13:17**
+
+> *"Os que governam bem sejam estimados por dignos de duplicada honra."*  
+> **1 Timóteo 5:17**
+
+> *"Lembrai-vos dos vossos pastores, que vos falaram a palavra de Deus."*  
+> **Hebreus 13:7**
+
+---
+
+## SLIDE 43 - TESTEMUNHOS DE FIDELIDADE
+
+# 🌟 TESTEMUNHOS DE DIZIMISTAS FIÉIS
+
+### R.G. LeTourneau (1888-1969)
+- Inventor e empresário cristão
+- Dava **90%** de sua renda para Deus
+- Vivia com 10%
+- Fundou faculdade cristã
+
+> *"A questão não é quanto do meu dinheiro dou a Deus, mas quanto do dinheiro de Deus fico para mim."*  
+> **— R.G. LeTourneau**
+
+---
+
+## SLIDE 44 - LÍDERES SOBRE DÍZIMOS
+
+# 💬 SABEDORIA SOBRE MORDOMIA
+
+> *"Você pode dar sem amar, mas não pode amar sem dar."*  
+> **— Amy Carmichael**
+
+> *"Não é quanto damos, mas quanto amor colocamos no ato de dar."*  
+> **— Madre Teresa**
+
+> *"Deus não precisa do nosso dinheiro, mas nós precisamos dar para libertar nosso coração."*  
+> **— John Wesley**
+
+---
+
+## SLIDE 45 - VERSÍCULOS SOBRE DAR
+
+# 📖 A BÍBLIA SOBRE OFERTAR
+
+> *"Deus ama ao que dá com alegria."*  
+> **2 Coríntios 9:7**
+
+> *"Mais bem-aventurado é dar do que receber."*  
+> **Atos 20:35**
+
+> *"Dai, e ser-vos-á dado; boa medida, recalcada, sacudida e transbordando."*  
+> **Lucas 6:38**
+
+> *"Quem dá ao pobre, empresta ao Senhor."*  
+> **Provérbios 19:17**
+
+---
+
+## SLIDE 46 - PRINCÍPIO DA SEMEADURA
+
+# 🌱 PRINCÍPIO DA SEMEADURA
+
+> *"Aquele que semeia pouco, pouco também ceifará; e aquele que semeia em abundância, em abundância também ceifará."*  
+> **2 Coríntios 9:6**
+
+### Três verdades:
+1. **Você colhe o que planta** — não outra coisa
+2. **Você colhe depois de plantar** — não antes
+3. **Você colhe mais do que plantou** — multiplicação
+
+---
+
+## SLIDE 47 - HISTÓRIA DA VIÚVA
+
+# 💰 A OFERTA DA VIÚVA (Marcos 12:41-44)
+
+Jesus viu muitos ricos depositando grandes quantias...
+
+Mas uma viúva pobre depositou **duas pequenas moedas**.
+
+> *"Em verdade vos digo que esta viúva pobre deu mais do que todos..."*
+
+### Lições:
+- Deus vê a proporção, não só o valor
+- Deus vê o coração, não só a quantia
+- Fidelidade é mais importante que quantidade
+
+---
+
+## SLIDE 48 - OBREIROS FIÉIS
+
+# 🏆 CARACTERÍSTICAS DO OBREIRO FIEL
+
+> *"Quem é fiel no mínimo, também é fiel no muito; e quem é injusto no mínimo, também é injusto no muito."*  
+> **Lucas 16:10**
+
+### O obreiro fiel:
+- ✅ É submisso por convicção, não por obrigação
+- ✅ Dizima por gratidão, não por medo
+- ✅ Serve com alegria, não por aparência
+- ✅ Honra a liderança, mesmo discordando
+- ✅ Dá o melhor, não as sobras
+
+---
+
 ## NOTAS PARA O MINISTRANTE
 
 ### Materiais necessários:
 - Lista de presença
 - Papel para anotações
+- Ficha de Compromisso de Fidelidade
 
 ### Dicas de condução:
 1. No tema da submissão, seja equilibrado - não autoritário
 2. No tema do dízimo, não seja "pesado" - foque na alegria de dar
 3. Use testemunhos pessoais de bênção
-4. Na dinâmica, crie ambiente de oração
-5. Não exponha ninguém - o compromisso é pessoal
+4. Cite os exemplos de líderes para inspirar
+5. Na dinâmica, crie ambiente de oração
+6. Não exponha ninguém - o compromisso é pessoal
 
 ### Tempo por bloco:
 - Abertura: 15min
 - Submissão: 45min
 - Intervalo: 15min
 - Dízimos e Ofertas: 45min
-- Dinâmica: 20min
+- Referências e Inspiração: 15min
+- Dinâmica: 15min
 - Encerramento: 10min
 
-**Total:** ~2h30
+**Total:** ~2h45
 
 ### Cuidados especiais:
 - Não faça pressão sobre o dízimo
 - Enfatize a alegria, não a obrigação
 - Fale sobre bênçãos, não sobre maldições
 - O foco é formar, não condenar
+
+### Versículos-chave mencionados:
+- Provérbios 3:9 (Honrar com bens)
+- 1 Coríntios 14:33 (Deus de ordem)
+- Romanos 13:1 (Autoridades)
+- Lucas 22:42 (Submissão de Jesus)
+- 1 Samuel 24:6 (Davi e Saul)
+- Filipenses 2:22 (Timóteo)
+- Hebreus 13:17 (Obedecer aos pastores)
+- 1 Timóteo 5:17 (Honrar os que governam)
+- Hebreus 13:7 (Lembrar dos pastores)
+- 2 Coríntios 9:7 (Dar com alegria)
+- Atos 20:35 (Melhor dar que receber)
+- Lucas 6:38 (Dai e será dado)
+- Provérbios 19:17 (Empresta ao Senhor)
+- 2 Coríntios 9:6 (Semeadura)
+- Marcos 12:41-44 (Viúva pobre)
+- Lucas 16:10 (Fiel no mínimo)
+
+### Líderes Citados:
+- Pr. José Wellington Bezerra da Costa
+- Billy Graham
+- John Bevere
+- R.G. LeTourneau
+- Amy Carmichael
+- Madre Teresa
+- John Wesley
