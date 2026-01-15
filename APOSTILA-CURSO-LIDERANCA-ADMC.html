@@ -1,0 +1,1645 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Apostila - Curso de Formação de Obreiros ADMC</title>
+  <style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">
+
+* {
+box-sizing: border-box;
+}
+body {
+font-family: 'Georgia', 'Times New Roman', serif;
+font-size: 12pt;
+line-height: 1.6;
+color: #333;
+max-width: 800px;
+margin: 0 auto;
+padding: 40px;
+background: #fff;
+}
+
+header {
+text-align: center;
+margin-bottom: 40px;
+padding-bottom: 30px;
+border-bottom: 3px double #2c3e50;
+}
+h1.title {
+font-size: 28pt;
+color: #2c3e50;
+margin-bottom: 10px;
+text-transform: uppercase;
+letter-spacing: 2px;
+}
+
+nav#TOC {
+background: #f8f9fa;
+padding: 25px;
+margin: 30px 0;
+border-radius: 8px;
+border-left: 5px solid #3498db;
+}
+nav#TOC h2 {
+color: #2c3e50;
+font-size: 18pt;
+margin-top: 0;
+margin-bottom: 15px;
+text-transform: uppercase;
+}
+nav#TOC ul {
+list-style: none;
+padding-left: 0;
+}
+nav#TOC > ul > li {
+margin: 12px 0;
+}
+nav#TOC li ul {
+padding-left: 20px;
+margin-top: 8px;
+}
+nav#TOC a {
+color: #34495e;
+text-decoration: none;
+transition: color 0.3s;
+}
+nav#TOC a:hover {
+color: #3498db;
+}
+
+h1 {
+font-size: 24pt;
+color: #2c3e50;
+margin-top: 50px;
+margin-bottom: 20px;
+padding-bottom: 10px;
+border-bottom: 2px solid #3498db;
+page-break-before: always;
+}
+h1:first-of-type {
+page-break-before: avoid;
+}
+h2 {
+font-size: 18pt;
+color: #34495e;
+margin-top: 35px;
+margin-bottom: 15px;
+border-left: 4px solid #e74c3c;
+padding-left: 15px;
+}
+h3 {
+font-size: 14pt;
+color: #2980b9;
+margin-top: 25px;
+margin-bottom: 10px;
+}
+h4 {
+font-size: 12pt;
+color: #16a085;
+margin-top: 20px;
+margin-bottom: 8px;
+font-style: italic;
+}
+
+p {
+margin: 12px 0;
+text-align: justify;
+}
+
+ul, ol {
+margin: 15px 0;
+padding-left: 30px;
+}
+li {
+margin: 8px 0;
+}
+
+blockquote {
+background: linear-gradient(135deg, #667eea15, #764ba215);
+border-left: 5px solid #9b59b6;
+margin: 25px 0;
+padding: 20px 25px;
+font-style: italic;
+border-radius: 0 8px 8px 0;
+}
+blockquote p {
+margin: 0;
+}
+
+blockquote strong {
+color: #8e44ad;
+}
+
+table {
+width: 100%;
+border-collapse: collapse;
+margin: 25px 0;
+font-size: 11pt;
+}
+th {
+background: #2c3e50;
+color: white;
+padding: 12px;
+text-align: left;
+font-weight: bold;
+}
+td {
+padding: 10px 12px;
+border-bottom: 1px solid #ddd;
+}
+tr:nth-child(even) {
+background: #f8f9fa;
+}
+tr:hover {
+background: #e8f4f8;
+}
+
+hr {
+border: none;
+height: 2px;
+background: linear-gradient(to right, transparent, #3498db, transparent);
+margin: 40px 0;
+}
+
+strong {
+color: #2c3e50;
+}
+em {
+color: #7f8c8d;
+}
+
+.box-destaque {
+background: #e8f4f8;
+border: 2px solid #3498db;
+border-radius: 8px;
+padding: 20px;
+margin: 25px 0;
+}
+
+p:first-child {
+font-size: 14pt;
+}
+
+h1:contains("AULA") {
+background: #2c3e50;
+color: white;
+padding: 20px;
+border-radius: 8px;
+}
+
+a {
+color: #3498db;
+text-decoration: none;
+}
+a:hover {
+text-decoration: underline;
+}
+
+@media print {
+body {
+padding: 0;
+font-size: 11pt;
+}
+h1 {
+page-break-before: always;
+page-break-after: avoid;
+}
+h2, h3 {
+page-break-after: avoid;
+}
+table, blockquote {
+page-break-inside: avoid;
+}
+nav#TOC {
+page-break-after: always;
+}
+a {
+color: #333;
+}
+a[href]:after {
+content: none;
+}
+}
+
+h2:contains("FICHA") {
+background: #27ae60;
+color: white;
+padding: 15px;
+border-radius: 8px;
+border-left: none;
+}
+
+h2:contains("ANOTAÇÕES") + p + hr + p,
+h2:contains("ANOTAÇÕES") ~ p:contains("___") {
+border: 1px dashed #bdc3c7;
+min-height: 50px;
+margin: 10px 0;
+}
+
+footer {
+margin-top: 60px;
+padding-top: 30px;
+border-top: 2px solid #2c3e50;
+text-align: center;
+font-style: italic;
+color: #7f8c8d;
+}
+</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Apostila - Curso de Formação de Obreiros ADMC</h1>
+</header>
+<nav id="TOC" role="doc-toc">
+<h2 id="toc-title">Sumário</h2>
+<ul>
+<li><a href="#apostila-do-curso-de-liderança-e-obreiros" id="toc-apostila-do-curso-de-liderança-e-obreiros">APOSTILA DO CURSO DE
+LIDERANÇA E OBREIROS</a>
+<ul>
+<li><a href="#ad-mensageiros-da-cidade---admc-sede" id="toc-ad-mensageiros-da-cidade---admc-sede">AD Mensageiros da Cidade -
+ADMC Sede</a></li>
+</ul></li>
+<li><a href="#sumário" id="toc-sumário">SUMÁRIO</a></li>
+<li><a href="#introdução-e-objetivos" id="toc-introdução-e-objetivos">INTRODUÇÃO E OBJETIVOS</a>
+<ul>
+<li><a href="#bem-vindo-ao-curso" id="toc-bem-vindo-ao-curso">Bem-vindo
+ao Curso!</a></li>
+<li><a href="#estrutura-do-curso" id="toc-estrutura-do-curso">Estrutura
+do Curso</a></li>
+</ul></li>
+<li><a href="#aula-1---boas-vindas-e-tipos-de-obreiros" id="toc-aula-1---boas-vindas-e-tipos-de-obreiros">AULA 1 - BOAS-VINDAS E
+TIPOS DE OBREIROS</a>
+<ul>
+<li><a href="#objetivos-da-aula" id="toc-objetivos-da-aula">Objetivos da
+Aula</a></li>
+<li><a href="#visão-da-admc" id="toc-visão-da-admc">Visão da
+ADMC</a></li>
+<li><a href="#missão-da-admc" id="toc-missão-da-admc">Missão da
+ADMC</a></li>
+<li><a href="#valores-da-admc" id="toc-valores-da-admc">Valores da
+ADMC</a></li>
+<li><a href="#os-4-tipos-de-obreiros-baseado-em-3-joão" id="toc-os-4-tipos-de-obreiros-baseado-em-3-joão">Os 4 Tipos de Obreiros
+(Baseado em 3 João)</a>
+<ul>
+<li><a href="#gaio---o-que-serve-por-amor-3-joão-1-8" id="toc-gaio---o-que-serve-por-amor-3-joão-1-8">1. GAIO - O que Serve
+por Amor (3 João 1-8)</a></li>
+<li><a href="#diótrefes---o-que-serve-para-aparecer-3-joão-9-10" id="toc-diótrefes---o-que-serve-para-aparecer-3-joão-9-10">2. DIÓTREFES
+- O que Serve para Aparecer (3 João 9-10)</a></li>
+<li><a href="#amostração---o-que-serve-por-título" id="toc-amostração---o-que-serve-por-título">3. “AMOSTRAÇÃO” - O que
+Serve por Título</a></li>
+<li><a href="#demétrio---o-que-serve-para-crescer-3-joão-12" id="toc-demétrio---o-que-serve-para-crescer-3-joão-12">4. DEMÉTRIO - O
+que Serve para Crescer (3 João 12)</a></li>
+</ul></li>
+<li><a href="#qual-tipo-você-é" id="toc-qual-tipo-você-é">Qual Tipo Você
+É?</a></li>
+<li><a href="#regras-do-curso" id="toc-regras-do-curso">Regras do
+Curso</a></li>
+</ul></li>
+<li><a href="#aula-2---liderança-servidora" id="toc-aula-2---liderança-servidora">AULA 2 - LIDERANÇA SERVIDORA</a>
+<ul>
+<li><a href="#objetivos-da-aula-1" id="toc-objetivos-da-aula-1">Objetivos da Aula</a></li>
+<li><a href="#ovelhas-vs-trabalhadores" id="toc-ovelhas-vs-trabalhadores">Ovelhas vs Trabalhadores</a>
+<ul>
+<li><a href="#ovelhas" id="toc-ovelhas">Ovelhas</a></li>
+<li><a href="#trabalhadores" id="toc-trabalhadores">Trabalhadores</a></li>
+</ul></li>
+<li><a href="#a-identidade-do-líder-servo" id="toc-a-identidade-do-líder-servo">A Identidade do Líder Servo</a>
+<ul>
+<li><a href="#jesus-o-modelo-perfeito" id="toc-jesus-o-modelo-perfeito">Jesus: O Modelo Perfeito</a></li>
+<li><a href="#o-verdadeiro-líder" id="toc-o-verdadeiro-líder">O
+Verdadeiro Líder</a></li>
+</ul></li>
+<li><a href="#todo-líder-é-uma-ponte" id="toc-todo-líder-é-uma-ponte">Todo Líder é Uma Ponte</a>
+<ul>
+<li><a href="#você-pode-ser" id="toc-você-pode-ser">Você Pode
+Ser:</a></li>
+</ul></li>
+<li><a href="#cuidando-de-pessoas-não-de-funções" id="toc-cuidando-de-pessoas-não-de-funções">Cuidando de Pessoas, Não de
+Funções</a>
+<ul>
+<li><a href="#o-erro-comum" id="toc-o-erro-comum">O Erro Comum</a></li>
+<li><a href="#a-abordagem-correta" id="toc-a-abordagem-correta">A
+Abordagem Correta</a></li>
+<li><a href="#perguntas-para-cada-membro-da-equipe" id="toc-perguntas-para-cada-membro-da-equipe">Perguntas Para Cada Membro
+da Equipe</a></li>
+</ul></li>
+<li><a href="#frases-para-gravar" id="toc-frases-para-gravar">Frases
+Para Gravar</a></li>
+</ul></li>
+<li><a href="#aula-3---liderança-que-multiplica" id="toc-aula-3---liderança-que-multiplica">AULA 3 - LIDERANÇA QUE
+MULTIPLICA</a>
+<ul>
+<li><a href="#objetivos-da-aula-2" id="toc-objetivos-da-aula-2">Objetivos da Aula</a></li>
+<li><a href="#comunicação-que-gera-unidade" id="toc-comunicação-que-gera-unidade">Comunicação que Gera Unidade</a>
+<ul>
+<li><a href="#princípios-de-comunicação" id="toc-princípios-de-comunicação">Princípios de Comunicação</a></li>
+<li><a href="#o-que-comunicar" id="toc-o-que-comunicar">O Que
+Comunicar</a></li>
+<li><a href="#frases-de-ponte" id="toc-frases-de-ponte">Frases de
+PONTE</a></li>
+<li><a href="#frases-de-barreira" id="toc-frases-de-barreira">Frases de
+BARREIRA</a></li>
+</ul></li>
+<li><a href="#os-4-estágios-de-formação-de-líderes" id="toc-os-4-estágios-de-formação-de-líderes">Os 4 Estágios de Formação
+de Líderes</a>
+<ul>
+<li><a href="#estágio-1-eu-faço-você-observa" id="toc-estágio-1-eu-faço-você-observa">Estágio 1: EU FAÇO, VOCÊ
+OBSERVA</a></li>
+<li><a href="#estágio-2-eu-faço-você-ajuda" id="toc-estágio-2-eu-faço-você-ajuda">Estágio 2: EU FAÇO, VOCÊ
+AJUDA</a></li>
+<li><a href="#estágio-3-você-faz-eu-supervisiono" id="toc-estágio-3-você-faz-eu-supervisiono">Estágio 3: VOCÊ FAZ, EU
+SUPERVISIONO</a></li>
+<li><a href="#estágio-4-você-faz-e-multiplica" id="toc-estágio-4-você-faz-e-multiplica">Estágio 4: VOCÊ FAZ E
+MULTIPLICA</a></li>
+</ul></li>
+<li><a href="#delegação-com-sabedoria" id="toc-delegação-com-sabedoria">Delegação com Sabedoria</a>
+<ul>
+<li><a href="#por-que-delegar" id="toc-por-que-delegar">Por Que
+Delegar?</a></li>
+<li><a href="#mentiras-que-impedem-delegação" id="toc-mentiras-que-impedem-delegação">Mentiras que Impedem
+Delegação</a></li>
+<li><a href="#verdades-libertadoras" id="toc-verdades-libertadoras">Verdades Libertadoras</a></li>
+<li><a href="#como-delegar" id="toc-como-delegar">Como Delegar</a></li>
+</ul></li>
+<li><a href="#multiplicação-o-mandamento-final" id="toc-multiplicação-o-mandamento-final">Multiplicação: O Mandamento
+Final</a>
+<ul>
+<li><a href="#multiplicar-vs-adicionar" id="toc-multiplicar-vs-adicionar">Multiplicar vs Adicionar</a></li>
+<li><a href="#a-pergunta-poderosa" id="toc-a-pergunta-poderosa">A
+Pergunta Poderosa</a></li>
+<li><a href="#o-legado-de-um-líder" id="toc-o-legado-de-um-líder">O
+Legado de um Líder</a></li>
+</ul></li>
+<li><a href="#frases-para-gravar-1" id="toc-frases-para-gravar-1">Frases
+Para Gravar</a></li>
+</ul></li>
+<li><a href="#aula-4---submissão-dízimos-e-ofertas" id="toc-aula-4---submissão-dízimos-e-ofertas">AULA 4 - SUBMISSÃO,
+DÍZIMOS E OFERTAS</a>
+<ul>
+<li><a href="#objetivos-da-aula-3" id="toc-objetivos-da-aula-3">Objetivos da Aula</a></li>
+<li><a href="#submissão-bíblica" id="toc-submissão-bíblica">Submissão
+Bíblica</a>
+<ul>
+<li><a href="#o-que-é-submissão" id="toc-o-que-é-submissão">O Que É
+Submissão</a></li>
+<li><a href="#o-que-não-é-submissão" id="toc-o-que-não-é-submissão">O
+Que NÃO É Submissão</a></li>
+<li><a href="#hierarquia-espiritual" id="toc-hierarquia-espiritual">Hierarquia Espiritual</a></li>
+</ul></li>
+<li><a href="#estrutura-administrativa-da-admc" id="toc-estrutura-administrativa-da-admc">Estrutura Administrativa da
+ADMC</a>
+<ul>
+<li><a href="#estrutura-ministerial" id="toc-estrutura-ministerial">Estrutura Ministerial</a></li>
+<li><a href="#estrutura-ministerial-1" id="toc-estrutura-ministerial-1">Estrutura Ministerial</a></li>
+<li><a href="#departamentos-da-admc" id="toc-departamentos-da-admc">Departamentos da ADMC</a></li>
+</ul></li>
+<li><a href="#o-dízimo-princípios-bíblicos" id="toc-o-dízimo-princípios-bíblicos">O Dízimo: Princípios Bíblicos</a>
+<ul>
+<li><a href="#o-que-é-o-dízimo" id="toc-o-que-é-o-dízimo">O Que É o
+Dízimo</a></li>
+<li><a href="#por-que-dizimar" id="toc-por-que-dizimar">Por Que
+Dizimar</a></li>
+<li><a href="#roubar-a-deus" id="toc-roubar-a-deus">Roubar a
+Deus?</a></li>
+<li><a href="#como-dizimar" id="toc-como-dizimar">Como Dizimar</a></li>
+</ul></li>
+<li><a href="#ofertas-além-do-dízimo" id="toc-ofertas-além-do-dízimo">Ofertas: Além do Dízimo</a>
+<ul>
+<li><a href="#diferença-entre-dízimo-e-oferta" id="toc-diferença-entre-dízimo-e-oferta">Diferença Entre Dízimo e
+Oferta</a></li>
+<li><a href="#tipos-de-ofertas" id="toc-tipos-de-ofertas">Tipos de
+Ofertas</a></li>
+<li><a href="#princípios-da-generosidade" id="toc-princípios-da-generosidade">Princípios da Generosidade</a></li>
+</ul></li>
+<li><a href="#o-exemplo-do-líder" id="toc-o-exemplo-do-líder">O Exemplo
+do Líder</a></li>
+</ul></li>
+<li><a href="#aula-5---ministério-com-crianças" id="toc-aula-5---ministério-com-crianças">AULA 5 - MINISTÉRIO COM
+CRIANÇAS</a>
+<ul>
+<li><a href="#objetivos-da-aula-4" id="toc-objetivos-da-aula-4">Objetivos da Aula</a></li>
+<li><a href="#jesus-e-as-crianças" id="toc-jesus-e-as-crianças">Jesus e
+as Crianças</a>
+<ul>
+<li><a href="#o-valor-das-crianças-para-jesus" id="toc-o-valor-das-crianças-para-jesus">O Valor das Crianças Para
+Jesus</a></li>
+<li><a href="#por-que-investir-em-crianças" id="toc-por-que-investir-em-crianças">Por Que Investir em
+Crianças</a></li>
+</ul></li>
+<li><a href="#crianças-com-necessidades-especiais" id="toc-crianças-com-necessidades-especiais">Crianças com Necessidades
+Especiais</a>
+<ul>
+<li><a href="#cada-criança-é-imagem-de-deus" id="toc-cada-criança-é-imagem-de-deus">Cada Criança é Imagem de
+Deus</a></li>
+</ul></li>
+<li><a href="#autismo-tea---transtorno-do-espectro-autista" id="toc-autismo-tea---transtorno-do-espectro-autista">Autismo (TEA -
+Transtorno do Espectro Autista)</a>
+<ul>
+<li><a href="#o-que-é" id="toc-o-que-é">O Que É</a></li>
+<li><a href="#características-comuns" id="toc-características-comuns">Características Comuns</a></li>
+<li><a href="#como-acolher" id="toc-como-acolher">Como Acolher</a></li>
+</ul></li>
+<li><a href="#tdah-transtorno-de-déficit-de-atenção-e-hiperatividade" id="toc-tdah-transtorno-de-déficit-de-atenção-e-hiperatividade">TDAH
+(Transtorno de Déficit de Atenção e Hiperatividade)</a>
+<ul>
+<li><a href="#o-que-é-1" id="toc-o-que-é-1">O Que É</a></li>
+<li><a href="#características-comuns-1" id="toc-características-comuns-1">Características Comuns</a></li>
+<li><a href="#como-acolher-1" id="toc-como-acolher-1">Como
+Acolher</a></li>
+</ul></li>
+<li><a href="#outros-tipos-de-necessidades" id="toc-outros-tipos-de-necessidades">Outros Tipos de Necessidades</a>
+<ul>
+<li><a href="#deficiência-física" id="toc-deficiência-física">Deficiência Física</a></li>
+<li><a href="#síndrome-de-down" id="toc-síndrome-de-down">Síndrome de
+Down</a></li>
+<li><a href="#deficiência-auditivavisual" id="toc-deficiência-auditivavisual">Deficiência Auditiva/Visual</a></li>
+</ul></li>
+<li><a href="#segurança-no-ministério-infantil" id="toc-segurança-no-ministério-infantil">Segurança no Ministério
+Infantil</a>
+<ul>
+<li><a href="#protocolo-de-check-incheck-out" id="toc-protocolo-de-check-incheck-out">Protocolo de
+Check-in/Check-out</a></li>
+<li><a href="#regra-dos-dois-adultos" id="toc-regra-dos-dois-adultos">Regra dos Dois Adultos</a></li>
+<li><a href="#em-caso-de-emergência" id="toc-em-caso-de-emergência">Em
+Caso de Emergência</a></li>
+</ul></li>
+<li><a href="#princípios-de-inclusão" id="toc-princípios-de-inclusão">Princípios de Inclusão</a>
+<ul>
+<li><a href="#o-que-nunca-fazer" id="toc-o-que-nunca-fazer">O Que NUNCA
+Fazer</a></li>
+<li><a href="#o-que-sempre-fazer" id="toc-o-que-sempre-fazer">O Que
+SEMPRE Fazer</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#fichas-e-materiais-práticos" id="toc-fichas-e-materiais-práticos">FICHAS E MATERIAIS PRÁTICOS</a>
+<ul>
+<li><a href="#ficha-1-autoavaliação---tipos-de-obreiro" id="toc-ficha-1-autoavaliação---tipos-de-obreiro">Ficha 1: Autoavaliação
+- Tipos de Obreiro</a>
+<ul>
+<li><a href="#os-4-tipos-escala-de-1-a-10" id="toc-os-4-tipos-escala-de-1-a-10">Os 4 Tipos (Escala de 1 a
+10)</a></li>
+<li><a href="#reflexão" id="toc-reflexão">Reflexão</a></li>
+<li><a href="#compromisso" id="toc-compromisso">Compromisso</a></li>
+</ul></li>
+<li><a href="#ficha-2-meu-plano-de-multiplicação" id="toc-ficha-2-meu-plano-de-multiplicação">Ficha 2: Meu Plano de
+Multiplicação</a>
+<ul>
+<li><a href="#quem-estou-formando-agora" id="toc-quem-estou-formando-agora">Quem Estou Formando Agora?</a></li>
+<li><a href="#quem-vou-começar-a-formar" id="toc-quem-vou-começar-a-formar">Quem Vou Começar a Formar?</a></li>
+<li><a href="#minha-ação-esta-semana" id="toc-minha-ação-esta-semana">Minha Ação Esta Semana</a></li>
+</ul></li>
+<li><a href="#ficha-3-compromisso-de-fidelidade" id="toc-ficha-3-compromisso-de-fidelidade">Ficha 3: Compromisso de
+Fidelidade</a>
+<ul>
+<li><a href="#submissão" id="toc-submissão">Submissão</a></li>
+<li><a href="#dízimos" id="toc-dízimos">Dízimos</a></li>
+<li><a href="#ofertas" id="toc-ofertas">Ofertas</a></li>
+<li><a href="#declaração" id="toc-declaração">Declaração</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#versículos-chave-do-curso" id="toc-versículos-chave-do-curso">VERSÍCULOS-CHAVE DO CURSO</a>
+<ul>
+<li><a href="#sobre-trabalho-e-serviço" id="toc-sobre-trabalho-e-serviço">Sobre Trabalho e Serviço</a></li>
+<li><a href="#sobre-liderança-servidora" id="toc-sobre-liderança-servidora">Sobre Liderança Servidora</a></li>
+<li><a href="#sobre-multiplicação" id="toc-sobre-multiplicação">Sobre
+Multiplicação</a></li>
+<li><a href="#sobre-pastoreio" id="toc-sobre-pastoreio">Sobre
+Pastoreio</a></li>
+<li><a href="#sobre-submissão" id="toc-sobre-submissão">Sobre
+Submissão</a></li>
+<li><a href="#sobre-dízimos" id="toc-sobre-dízimos">Sobre
+Dízimos</a></li>
+<li><a href="#sobre-ofertas" id="toc-sobre-ofertas">Sobre
+Ofertas</a></li>
+<li><a href="#sobre-crianças" id="toc-sobre-crianças">Sobre
+Crianças</a></li>
+<li><a href="#sobre-valor-pessoal" id="toc-sobre-valor-pessoal">Sobre
+Valor Pessoal</a></li>
+</ul></li>
+<li><a href="#frases-memoráveis" id="toc-frases-memoráveis">FRASES
+MEMORÁVEIS</a></li>
+<li><a href="#anotações-pessoais" id="toc-anotações-pessoais">ANOTAÇÕES
+PESSOAIS</a></li>
+</ul>
+</nav>
+<h1 id="apostila-do-curso-de-liderança-e-obreiros">APOSTILA DO CURSO DE
+LIDERANÇA E OBREIROS</h1>
+<h2 id="ad-mensageiros-da-cidade---admc-sede">AD Mensageiros da Cidade -
+ADMC Sede</h2>
+<hr />
+<p><strong>Carga Horária:</strong> 10 horas (5 aulas)<br />
+<strong>Ano:</strong> 2026</p>
+<p><strong>Ministrantes:</strong> - Pr. Leivyson Lima (Aulas 1, 4 e 5) -
+Pb. Adeilson Araújo (Aulas 2 e 3)</p>
+<hr />
+<h1 id="sumário">SUMÁRIO</h1>
+<ol type="1">
+<li><a href="#introdução-e-objetivos">Introdução e Objetivos</a></li>
+<li><a href="#aula-1---boas-vindas-e-tipos-de-obreiros">Aula 1 -
+Boas-Vindas e Tipos de Obreiros</a></li>
+<li><a href="#aula-2---liderança-servidora">Aula 2 - Liderança
+Servidora</a></li>
+<li><a href="#aula-3---liderança-que-multiplica">Aula 3 - Liderança que
+Multiplica</a></li>
+<li><a href="#aula-4---submissão-dízimos-e-ofertas">Aula 4 - Submissão,
+Dízimos e Ofertas</a></li>
+<li><a href="#aula-5---ministério-com-crianças">Aula 5 - Ministério com
+Crianças</a></li>
+<li><a href="#fichas-e-materiais-práticos">Fichas e Materiais
+Práticos</a></li>
+<li><a href="#versículos-chave">Versículos-Chave</a></li>
+</ol>
+<hr />
+<h1 id="introdução-e-objetivos">INTRODUÇÃO E OBJETIVOS</h1>
+<h2 id="bem-vindo-ao-curso">Bem-vindo ao Curso!</h2>
+<p>Este curso foi elaborado para formar líderes servos que multiplicam.
+Ao longo das 5 aulas, você será capacitado a:</p>
+<ul>
+<li>Conhecer a visão, missão e valores da ADMC</li>
+<li>Identificar qual tipo de obreiro você é e como crescer</li>
+<li>Liderar com coração de servo e clareza de propósito</li>
+<li>Comunicar-se de forma que gera unidade</li>
+<li>Identificar e formar novos líderes</li>
+<li>Submeter-se às autoridades da igreja</li>
+<li>Ser fiel nos dízimos e ofertas</li>
+<li>Ministrar com sabedoria para crianças especiais</li>
+<li>Criar cultura de alcance e multiplicação</li>
+</ul>
+<h2 id="estrutura-do-curso">Estrutura do Curso</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Aula</th>
+<th>Tema</th>
+<th>Ministrante</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Boas-Vindas e Tipos de Obreiros</td>
+<td>Pr. Leivyson Lima</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Liderança Servidora</td>
+<td>Pb. Adeilson Araújo</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Liderança que Multiplica</td>
+<td>Pb. Adeilson Araújo</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Submissão, Dízimos e Ofertas</td>
+<td>Pr. Leivyson Lima</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Ministério com Crianças e Formatura</td>
+<td>Pr. Leivyson Lima</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="aula-1---boas-vindas-e-tipos-de-obreiros">AULA 1 - BOAS-VINDAS E
+TIPOS DE OBREIROS</h1>
+<p><strong>Ministrante:</strong> Pr. Leivyson Lima</p>
+<h2 id="objetivos-da-aula">Objetivos da Aula</h2>
+<ul>
+<li>Apresentar a visão, missão e valores da ADMC</li>
+<li>Conhecer os 4 tipos de obreiros</li>
+<li>Realizar autoavaliação pessoal</li>
+<li>Estabelecer as regras do curso</li>
+</ul>
+<hr />
+<h2 id="visão-da-admc">Visão da ADMC</h2>
+<blockquote>
+<p><strong>“Ser uma igreja que transforma vidas através do Evangelho de
+Jesus Cristo, formando discípulos que fazem discípulos.”</strong></p>
+</blockquote>
+<h2 id="missão-da-admc">Missão da ADMC</h2>
+<blockquote>
+<p><strong>“Proclamar o Evangelho, formar discípulos maduros e
+multiplicar líderes para a glória de Deus.”</strong></p>
+</blockquote>
+<h2 id="valores-da-admc">Valores da ADMC</h2>
+<ol type="1">
+<li><strong>Palavra de Deus</strong> - A Bíblia é nossa única regra de
+fé e prática</li>
+<li><strong>Oração</strong> - Dependência total de Deus</li>
+<li><strong>Comunhão</strong> - Relacionamentos genuínos</li>
+<li><strong>Serviço</strong> - Todos somos chamados a servir</li>
+<li><strong>Evangelismo</strong> - Alcançar os perdidos</li>
+<li><strong>Discipulado</strong> - Formar vidas</li>
+<li><strong>Excelência</strong> - O melhor para Deus</li>
+</ol>
+<hr />
+<h2 id="os-4-tipos-de-obreiros-baseado-em-3-joão">Os 4 Tipos de Obreiros
+(Baseado em 3 João)</h2>
+<h3 id="gaio---o-que-serve-por-amor-3-joão-1-8">1. GAIO - O que Serve
+por Amor (3 João 1-8)</h3>
+<blockquote>
+<p>“Amado, procedes fielmente em tudo o que fazes.” - 3 João 5</p>
+</blockquote>
+<p><strong>Características:</strong> - Ama a Deus e o próximo
+genuinamente - Serve sem esperar reconhecimento - Alegra-se com o
+sucesso dos outros - Hospeda, acolhe e sustenta a obra - É fiel mesmo
+quando ninguém vê</p>
+<p><strong>Como reconhecer:</strong> - Chega cedo e sai tarde - Faz além
+do esperado - Nunca reclama de servir - Celebra as conquistas dos
+outros</p>
+<h3 id="diótrefes---o-que-serve-para-aparecer-3-joão-9-10">2. DIÓTREFES
+- O que Serve para Aparecer (3 João 9-10)</h3>
+<blockquote>
+<p>“Diótrefes, que gosta de exercer a primazia entre eles…” - 3 João
+9</p>
+</blockquote>
+<p><strong>Características:</strong> - Gosta de ser o primeiro - Tem
+dificuldade de submissão - Compete com outros líderes - Rejeita
+autoridade - Fala mal dos outros - Exclui quem discorda dele</p>
+<p><strong>Sinais de alerta:</strong> - “Aqui quem manda sou eu” - Não
+aceita correção - Cria panelinha - Fala mal da liderança</p>
+<h3 id="amostração---o-que-serve-por-título">3. “AMOSTRAÇÃO” - O que
+Serve por Título</h3>
+<p><strong>Características:</strong> - Gosta do status de líder - Se
+ofende quando não é reconhecido - Trabalha mais quando está sendo
+observado - Quer os privilégios sem as responsabilidades - Faz questão
+de ser chamado pelo cargo</p>
+<p><strong>Sinais de alerta:</strong> - Só aparece em eventos grandes -
+Cobra reconhecimento público - Se ofende facilmente - Compara-se com
+outros</p>
+<h3 id="demétrio---o-que-serve-para-crescer-3-joão-12">4. DEMÉTRIO - O
+que Serve para Crescer (3 João 12)</h3>
+<blockquote>
+<p>“De Demétrio todos dão testemunho, até a própria verdade.” - 3 João
+12</p>
+</blockquote>
+<p><strong>Características:</strong> - Bom testemunho de todos -
+Alinhado com a verdade - Busca crescer genuinamente - Aprende com
+humildade - Ensina com paciência - Forma outros líderes</p>
+<p><strong>Como reconhecer:</strong> - Aceita feedback com gratidão -
+Busca aprender sempre - Admite erros - Investe em outros</p>
+<hr />
+<h2 id="qual-tipo-você-é">Qual Tipo Você É?</h2>
+<p><strong>Pergunta de reflexão:</strong> - Se ninguém me visse
+servindo, eu continuaria da mesma forma? - Como reajo quando outro líder
+recebe reconhecimento? - Minha família diria que sou mais “espiritual”
+na igreja ou em casa?</p>
+<hr />
+<h2 id="regras-do-curso">Regras do Curso</h2>
+<ol type="1">
+<li><strong>Presença</strong> - Mínimo 80% para certificação</li>
+<li><strong>Pontualidade</strong> - Chegar no horário</li>
+<li><strong>Participação</strong> - Engajar nas dinâmicas</li>
+<li><strong>Celular</strong> - Silencioso durante as aulas</li>
+<li><strong>Respeito</strong> - Com colegas e ministrantes</li>
+<li><strong>Confidencialidade</strong> - O que é dito aqui, fica
+aqui</li>
+<li><strong>Aplicação</strong> - Colocar em prática o aprendido</li>
+</ol>
+<hr />
+<h1 id="aula-2---liderança-servidora">AULA 2 - LIDERANÇA SERVIDORA</h1>
+<p><strong>Ministrante:</strong> Pb. Adeilson Araújo</p>
+<h2 id="objetivos-da-aula-1">Objetivos da Aula</h2>
+<ul>
+<li>Compreender a diferença entre ovelhas e trabalhadores</li>
+<li>Desenvolver a identidade do líder servo</li>
+<li>Aprender a ser ponte entre pastor e equipe</li>
+<li>Cuidar de pessoas, não apenas de funções</li>
+</ul>
+<hr />
+<h2 id="ovelhas-vs-trabalhadores">Ovelhas vs Trabalhadores</h2>
+<blockquote>
+<p>“A seara é grande, mas poucos são os trabalhadores. Roguem, pois, ao
+Senhor da seara que envie trabalhadores para a sua seara.” - Mateus
+9:37-38</p>
+</blockquote>
+<h3 id="ovelhas">Ovelhas</h3>
+<ul>
+<li>Precisam de pastoreio constante</li>
+<li>Dependem do pastor para tudo</li>
+<li>Reclamam mais do que contribuem</li>
+<li>Esperam ser servidas</li>
+<li>Fogem das responsabilidades</li>
+</ul>
+<h3 id="trabalhadores">Trabalhadores</h3>
+<ul>
+<li>Precisam de aperfeiçoamento e desafio</li>
+<li>Assumem responsabilidades</li>
+<li>Contribuem mais do que reclamam</li>
+<li>Servem aos outros</li>
+<li>Abraçam as responsabilidades</li>
+</ul>
+<p><strong>Pergunta-chave:</strong> Você é ovelha ou trabalhador?</p>
+<hr />
+<h2 id="a-identidade-do-líder-servo">A Identidade do Líder Servo</h2>
+<blockquote>
+<p>“Quem quiser tornar-se importante entre vocês deverá ser servo; e
+quem quiser ser o primeiro deverá ser escravo de todos.” - Marcos
+10:43-44</p>
+</blockquote>
+<h3 id="jesus-o-modelo-perfeito">Jesus: O Modelo Perfeito</h3>
+<ul>
+<li>Lavou os pés dos discípulos (João 13)</li>
+<li>Não veio para ser servido, mas para servir</li>
+<li>Deu a própria vida pelos outros</li>
+</ul>
+<h3 id="o-verdadeiro-líder">O Verdadeiro Líder</h3>
+<ul>
+<li>Serve antes de liderar</li>
+<li>Lidera servindo</li>
+<li>Seu exemplo fala mais alto que palavras</li>
+<li>Não busca títulos, busca resultados</li>
+<li>Cuida das pessoas, não apenas das tarefas</li>
+</ul>
+<hr />
+<h2 id="todo-líder-é-uma-ponte">Todo Líder é Uma Ponte</h2>
+<p>O líder intermediário conecta:</p>
+<pre><code>PASTOR/VISÃO &lt;---&gt; LÍDER (PONTE) &lt;---&gt; EQUIPE/SERVOS</code></pre>
+<h3 id="você-pode-ser">Você Pode Ser:</h3>
+<p><strong>PONTE que conecta:</strong> - Transmite a visão com
+entusiasmo - Traduz a linguagem do pastor - Defende a liderança - Gera
+unidade</p>
+<p><strong>BARREIRA que bloqueia:</strong> - Critica a visão - Distorce
+as mensagens - Fala mal do pastor - Gera divisão</p>
+<p><strong>Pergunta:</strong> Você tem sido ponte ou barreira?</p>
+<hr />
+<h2 id="cuidando-de-pessoas-não-de-funções">Cuidando de Pessoas, Não de
+Funções</h2>
+<blockquote>
+<p>“Pastoreiem o rebanho de Deus… não por obrigação, mas de livre
+vontade… sendo exemplos para o rebanho.” - 1 Pedro 5:2-3</p>
+</blockquote>
+<h3 id="o-erro-comum">O Erro Comum</h3>
+<ul>
+<li>Focar apenas na tarefa</li>
+<li>Ignorar o coração das pessoas</li>
+<li>Tratar servos como peças</li>
+<li>Substituir pessoas sem cuidar delas</li>
+</ul>
+<h3 id="a-abordagem-correta">A Abordagem Correta</h3>
+<ul>
+<li>Conhecer as histórias das pessoas</li>
+<li>Perguntar “como você está?” e realmente ouvir</li>
+<li>Celebrar vitórias pessoais</li>
+<li>Apoiar em momentos difíceis</li>
+<li>Investir além do serviço</li>
+</ul>
+<h3 id="perguntas-para-cada-membro-da-equipe">Perguntas Para Cada Membro
+da Equipe</h3>
+<ol type="1">
+<li>Como está sua vida espiritual?</li>
+<li>Como está sua família?</li>
+<li>Como está seu trabalho/estudos?</li>
+<li>Em que posso ajudar você?</li>
+<li>O que você está aprendendo?</li>
+</ol>
+<hr />
+<h2 id="frases-para-gravar">Frases Para Gravar</h2>
+<blockquote>
+<p>“Líder não precisa de consolo o tempo todo. Precisa de direção, de
+desafio e de propósito.”</p>
+</blockquote>
+<blockquote>
+<p>“A colheita não está parada por falta de gente. Está parada por falta
+de líderes preparados para colher.”</p>
+</blockquote>
+<blockquote>
+<p>“A equipe não precisa de um chefe, precisa de um líder que serve com
+amor e conduz com propósito.”</p>
+</blockquote>
+<hr />
+<h1 id="aula-3---liderança-que-multiplica">AULA 3 - LIDERANÇA QUE
+MULTIPLICA</h1>
+<p><strong>Ministrante:</strong> Pb. Adeilson Araújo</p>
+<h2 id="objetivos-da-aula-2">Objetivos da Aula</h2>
+<ul>
+<li>Desenvolver comunicação que gera unidade</li>
+<li>Conhecer os 4 estágios de formação</li>
+<li>Aprender a delegar com sabedoria</li>
+<li>Criar cultura de multiplicação</li>
+</ul>
+<hr />
+<h2 id="comunicação-que-gera-unidade">Comunicação que Gera Unidade</h2>
+<h3 id="princípios-de-comunicação">Princípios de Comunicação</h3>
+<ol type="1">
+<li><strong>Seja claro</strong> - Não deixe espaço para interpretações
+erradas</li>
+<li><strong>Seja consistente</strong> - A mesma mensagem para todos</li>
+<li><strong>Seja oportuno</strong> - No tempo certo</li>
+<li><strong>Seja respeitoso</strong> - Tom adequado</li>
+<li><strong>Seja conectado</strong> - Relacione com a visão maior</li>
+</ol>
+<h3 id="o-que-comunicar">O Que Comunicar</h3>
+<ul>
+<li>Expectativas claras</li>
+<li>Feedbacks regulares</li>
+<li>Mudanças com antecedência</li>
+<li>Reconhecimento público</li>
+<li>Correção em particular</li>
+</ul>
+<h3 id="frases-de-ponte">Frases de PONTE</h3>
+<ul>
+<li>“O pastor está sempre sensível ao mover de Deus”</li>
+<li>“Essa mudança vai nos ajudar a alcançar mais pessoas”</li>
+<li>“Vamos abraçar isso juntos”</li>
+<li>“Nosso coração é o mesmo: ganhar vidas para Cristo”</li>
+</ul>
+<h3 id="frases-de-barreira">Frases de BARREIRA</h3>
+<ul>
+<li>“Também não entendi, mas fazer o quê…”</li>
+<li>“O pastor mandou, então…”</li>
+<li>“Eu acho estranho, mas vamos tentar”</li>
+</ul>
+<hr />
+<h2 id="os-4-estágios-de-formação-de-líderes">Os 4 Estágios de Formação
+de Líderes</h2>
+<blockquote>
+<p>“O que de mim ouviste, transmite a homens fiéis que sejam também
+capazes de ensinar outros.” - 2 Timóteo 2:2</p>
+</blockquote>
+<h3 id="estágio-1-eu-faço-você-observa">Estágio 1: EU FAÇO, VOCÊ
+OBSERVA</h3>
+<ul>
+<li>Modelo totalmente</li>
+<li>Explique o que está fazendo e por quê</li>
+<li>Deixe perguntar</li>
+<li>Mostre os bastidores</li>
+</ul>
+<h3 id="estágio-2-eu-faço-você-ajuda">Estágio 2: EU FAÇO, VOCÊ
+AJUDA</h3>
+<ul>
+<li>Envolva gradualmente</li>
+<li>Dê pequenas responsabilidades</li>
+<li>Supervisione de perto</li>
+<li>Encoraje tentativas</li>
+</ul>
+<h3 id="estágio-3-você-faz-eu-supervisiono">Estágio 3: VOCÊ FAZ, EU
+SUPERVISIONO</h3>
+<ul>
+<li>Delegue a tarefa completa</li>
+<li>Esteja disponível para dúvidas</li>
+<li>Dê feedback construtivo</li>
+<li>Celebre os acertos</li>
+</ul>
+<h3 id="estágio-4-você-faz-e-multiplica">Estágio 4: VOCÊ FAZ E
+MULTIPLICA</h3>
+<ul>
+<li>Autonomia total</li>
+<li>Supervisão distante</li>
+<li>A pessoa começa a formar outros</li>
+<li>Ciclo se repete</li>
+</ul>
+<hr />
+<h2 id="delegação-com-sabedoria">Delegação com Sabedoria</h2>
+<h3 id="por-que-delegar">Por Que Delegar?</h3>
+<ul>
+<li>Desenvolve pessoas</li>
+<li>Multiplica capacidade</li>
+<li>Previne burnout</li>
+<li>Forma sucessores</li>
+</ul>
+<h3 id="mentiras-que-impedem-delegação">Mentiras que Impedem
+Delegação</h3>
+<ul>
+<li>“Ninguém faz como eu”</li>
+<li>“Vai demorar mais ensinar”</li>
+<li>“Se eu delegar, vão me substituir”</li>
+<li>“Sou responsável, tenho que fazer tudo”</li>
+</ul>
+<h3 id="verdades-libertadoras">Verdades Libertadoras</h3>
+<ul>
+<li>“Bom o suficiente” nas mãos de muitos &gt; “perfeito” nas mãos de
+um</li>
+<li>Investir tempo formando multiplica eternamente</li>
+<li>Ser substituído é sinal de sucesso</li>
+<li>Responsabilidade é formar, não fazer tudo</li>
+</ul>
+<h3 id="como-delegar">Como Delegar</h3>
+<ol type="1">
+<li><strong>Identifique</strong> a pessoa certa (FAD: Fidelidade,
+Disponibilidade, Disposição)</li>
+<li><strong>Explique</strong> a importância da tarefa</li>
+<li><strong>Modele</strong> fazendo junto</li>
+<li><strong>Delegue</strong> com clareza de expectativas</li>
+<li><strong>Supervisione</strong> com pontos de prestação de contas</li>
+<li><strong>Corrija</strong> com gentileza</li>
+<li><strong>Celebre</strong> o crescimento</li>
+</ol>
+<hr />
+<h2 id="multiplicação-o-mandamento-final">Multiplicação: O Mandamento
+Final</h2>
+<blockquote>
+<p>“Ide e fazei discípulos de todas as nações.” - Mateus 28:19</p>
+</blockquote>
+<h3 id="multiplicar-vs-adicionar">Multiplicar vs Adicionar</h3>
+<ul>
+<li><strong>Adicionar:</strong> Eu faço tudo = crescimento limitado</li>
+<li><strong>Multiplicar:</strong> Eu formo outros que formam outros =
+crescimento exponencial</li>
+</ul>
+<h3 id="a-pergunta-poderosa">A Pergunta Poderosa</h3>
+<blockquote>
+<p>“Se você não está formando ninguém, o que acontece se você sair ou
+adoecer?”</p>
+</blockquote>
+<h3 id="o-legado-de-um-líder">O Legado de um Líder</h3>
+<p>Não é medido por: - Quantas coisas você fez - Quanto tempo você
+serviu - Quantos títulos você teve</p>
+<p>É medido por: - Quantos líderes você formou - Quem continua a obra
+quando você sai - Quantas gerações você influenciou</p>
+<hr />
+<h2 id="frases-para-gravar-1">Frases Para Gravar</h2>
+<blockquote>
+<p>“Multiplicar é mais poderoso do que reter.”</p>
+</blockquote>
+<blockquote>
+<p>“Formar é liberar, não prender.”</p>
+</blockquote>
+<blockquote>
+<p>“O maior sucesso de um líder é ser substituído por alguém que ele
+mesmo formou.”</p>
+</blockquote>
+<hr />
+<h1 id="aula-4---submissão-dízimos-e-ofertas">AULA 4 - SUBMISSÃO,
+DÍZIMOS E OFERTAS</h1>
+<p><strong>Ministrante:</strong> Pr. Leivyson Lima</p>
+<h2 id="objetivos-da-aula-3">Objetivos da Aula</h2>
+<ul>
+<li>Compreender a submissão bíblica</li>
+<li>Conhecer a estrutura da ADMC</li>
+<li>Entender os princípios do dízimo</li>
+<li>Desenvolver coração generoso</li>
+</ul>
+<hr />
+<h2 id="submissão-bíblica">Submissão Bíblica</h2>
+<blockquote>
+<p>“Todo homem esteja sujeito às autoridades superiores; porque não há
+autoridade que não proceda de Deus; e as autoridades que existem foram
+por ele instituídas.” - Romanos 13:1</p>
+</blockquote>
+<h3 id="o-que-é-submissão">O Que É Submissão</h3>
+<ul>
+<li>Reconhecer a autoridade estabelecida por Deus</li>
+<li>Respeitar mesmo quando discorda</li>
+<li>Seguir a liderança com coração disposto</li>
+<li>Confiar que Deus age através das autoridades</li>
+</ul>
+<h3 id="o-que-não-é-submissão">O Que NÃO É Submissão</h3>
+<ul>
+<li>Concordar com tudo cegamente</li>
+<li>Ser passivo diante de pecado</li>
+<li>Perder sua personalidade</li>
+<li>Aceitar abuso</li>
+</ul>
+<h3 id="hierarquia-espiritual">Hierarquia Espiritual</h3>
+<pre><code>DEUS
+  ↓
+PASTOR PRESIDENTE
+  ↓
+PASTORES/PRESBÍTEROS
+  ↓
+DIÁCONOS/LÍDERES
+  ↓
+OBREIROS/SERVOS</code></pre>
+<hr />
+<h2 id="estrutura-administrativa-da-admc">Estrutura Administrativa da
+ADMC</h2>
+<h3 id="estrutura-ministerial">Estrutura Ministerial</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Cargo</th>
+<th>Função</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pastor Dirigente/Presidente</td>
+<td>Direção geral da igreja</td>
+</tr>
+<tr class="even">
+<td>1º Vice-Presidente</td>
+<td>Auxílio direto ao pastor</td>
+</tr>
+<tr class="odd">
+<td>2º Vice-Presidente</td>
+<td>Suporte à liderança</td>
+</tr>
+<tr class="even">
+<td>Secretaria</td>
+<td>Administração e registros</td>
+</tr>
+<tr class="odd">
+<td>Tesouraria</td>
+<td>Finanças e prestação de contas</td>
+</tr>
+<tr class="even">
+<td>Comissão Fiscal</td>
+<td>Auditoria e transparência</td>
+</tr>
+<tr class="odd">
+<td>Patrimônio</td>
+<td>Bens da igreja</td>
+</tr>
+<tr class="even">
+<td>Zeladoria</td>
+<td>Manutenção e limpeza</td>
+</tr>
+</tbody>
+</table>
+<h3 id="estrutura-ministerial-1">Estrutura Ministerial</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Ordem</th>
+<th>Função</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Evangelistas</td>
+<td>Pregação e evangelismo</td>
+</tr>
+<tr class="even">
+<td>Pastores</td>
+<td>Pastoreio e ensino</td>
+</tr>
+<tr class="odd">
+<td>Presbíteros</td>
+<td>Governo e aconselhamento</td>
+</tr>
+<tr class="even">
+<td>Diáconos/Diaconisas</td>
+<td>Serviço prático</td>
+</tr>
+<tr class="odd">
+<td>Auxiliares</td>
+<td>Apoio aos ministérios</td>
+</tr>
+</tbody>
+</table>
+<h3 id="departamentos-da-admc">Departamentos da ADMC</h3>
+<ul>
+<li>Som e Áudio</li>
+<li>Redes Sociais</li>
+<li>Projeção</li>
+<li>Live/Transmissão</li>
+<li>Iluminação</li>
+<li>Recepção</li>
+<li>Acolhimento</li>
+<li>Consolidação</li>
+<li>Assistência Social</li>
+<li>Louvor e Adoração</li>
+</ul>
+<hr />
+<h2 id="o-dízimo-princípios-bíblicos">O Dízimo: Princípios Bíblicos</h2>
+<blockquote>
+<p>“Trazei todos os dízimos à casa do tesouro, para que haja mantimento
+na minha casa, e depois fazei prova de mim, diz o SENHOR dos Exércitos,
+se eu não vos abrir as janelas do céu, e não derramar sobre vós uma
+bênção tal até que não haja lugar suficiente para a recolherdes.” -
+Malaquias 3:10</p>
+</blockquote>
+<h3 id="o-que-é-o-dízimo">O Que É o Dízimo</h3>
+<ul>
+<li>10% de toda renda</li>
+<li>Pertence ao Senhor</li>
+<li>É santo (separado para Deus)</li>
+<li>Não é opcional para o cristão</li>
+</ul>
+<h3 id="por-que-dizimar">Por Que Dizimar</h3>
+<ol type="1">
+<li><strong>É mandamento bíblico</strong> - Não negociável</li>
+<li><strong>Reconhece que tudo vem de Deus</strong> - Ele é o dono</li>
+<li><strong>Sustenta a obra</strong> - Mantém a igreja funcionando</li>
+<li><strong>Libera bênçãos</strong> - Deus desafia: “provai-me”</li>
+<li><strong>Demonstra fé</strong> - Confio que Deus provê</li>
+</ol>
+<h3 id="roubar-a-deus">Roubar a Deus?</h3>
+<blockquote>
+<p>“Roubará o homem a Deus? Todavia vós me roubais e dizeis: Em que te
+roubamos? Nos dízimos e nas ofertas.” - Malaquias 3:8</p>
+</blockquote>
+<p><strong>Não dizimar é:</strong> - Roubar o que pertence a Deus -
+Fechar as janelas do céu - Dar lugar ao devorador - Viver debaixo de
+maldição</p>
+<h3 id="como-dizimar">Como Dizimar</h3>
+<ol type="1">
+<li><strong>Primeiro</strong> - Antes de qualquer despesa</li>
+<li><strong>Fielmente</strong> - Todo mês, sem falhar</li>
+<li><strong>Integralmente</strong> - 10% completos</li>
+<li><strong>Com alegria</strong> - Não por obrigação</li>
+<li><strong>Na igreja local</strong> - Casa do tesouro</li>
+</ol>
+<hr />
+<h2 id="ofertas-além-do-dízimo">Ofertas: Além do Dízimo</h2>
+<blockquote>
+<p>“Cada um contribua segundo propôs no seu coração, não com tristeza ou
+por necessidade; porque Deus ama ao que dá com alegria.” - 2 Coríntios
+9:7</p>
+</blockquote>
+<h3 id="diferença-entre-dízimo-e-oferta">Diferença Entre Dízimo e
+Oferta</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Dízimo</th>
+<th>Oferta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>10% fixo</td>
+<td>Valor livre</td>
+</tr>
+<tr class="even">
+<td>Obrigatório</td>
+<td>Voluntário</td>
+</tr>
+<tr class="odd">
+<td>Devolução</td>
+<td>Doação</td>
+</tr>
+<tr class="even">
+<td>Fidelidade</td>
+<td>Generosidade</td>
+</tr>
+</tbody>
+</table>
+<h3 id="tipos-de-ofertas">Tipos de Ofertas</h3>
+<ul>
+<li><strong>Ofertas regulares</strong> - Cultos e reuniões</li>
+<li><strong>Ofertas missionárias</strong> - Sustento de
+missionários</li>
+<li><strong>Ofertas especiais</strong> - Projetos e campanhas</li>
+<li><strong>Primícias</strong> - Primeiro fruto de algo novo</li>
+</ul>
+<h3 id="princípios-da-generosidade">Princípios da Generosidade</h3>
+<ol type="1">
+<li>Deus ama quem dá com alegria</li>
+<li>Quem semeia pouco, colhe pouco</li>
+<li>Quem semeia em abundância, colhe em abundância</li>
+<li>É mais bem-aventurado dar do que receber</li>
+</ol>
+<hr />
+<h2 id="o-exemplo-do-líder">O Exemplo do Líder</h2>
+<p>Como obreiro/líder, você é EXEMPLO em:</p>
+<ul>
+<li>Fidelidade no dízimo</li>
+<li>Generosidade nas ofertas</li>
+<li>Transparência financeira</li>
+<li>Não murmurar sobre dinheiro</li>
+<li>Confiar na provisão de Deus</li>
+</ul>
+<blockquote>
+<p>“O que é fiel no pouco também é fiel no muito.” - Lucas 16:10</p>
+</blockquote>
+<hr />
+<h1 id="aula-5---ministério-com-crianças">AULA 5 - MINISTÉRIO COM
+CRIANÇAS</h1>
+<p><strong>Ministrante:</strong> Pr. Leivyson Lima</p>
+<h2 id="objetivos-da-aula-4">Objetivos da Aula</h2>
+<ul>
+<li>Valorizar o ministério infantil</li>
+<li>Entender necessidades especiais</li>
+<li>Aplicar protocolos de segurança</li>
+<li>Praticar inclusão com sabedoria</li>
+</ul>
+<hr />
+<h2 id="jesus-e-as-crianças">Jesus e as Crianças</h2>
+<blockquote>
+<p>“Deixai vir a mim as crianças e não as impeçais, porque delas é o
+Reino de Deus.” - Marcos 10:14</p>
+</blockquote>
+<h3 id="o-valor-das-crianças-para-jesus">O Valor das Crianças Para
+Jesus</h3>
+<ul>
+<li>Jesus as abençoou pessoalmente</li>
+<li>Repreendeu quem as impedia</li>
+<li>As usou como exemplo de fé</li>
+<li>Disse que delas é o Reino</li>
+</ul>
+<h3 id="por-que-investir-em-crianças">Por Que Investir em Crianças</h3>
+<ol type="1">
+<li><strong>São o presente da igreja</strong> - Não apenas o futuro</li>
+<li><strong>Formam valores cedo</strong> - Impacto duradouro</li>
+<li><strong>Influenciam famílias</strong> - Porta de entrada</li>
+<li><strong>São receptivas</strong> - Coração aberto</li>
+<li><strong>Jesus as valoriza</strong> - Nós também devemos</li>
+</ol>
+<hr />
+<h2 id="crianças-com-necessidades-especiais">Crianças com Necessidades
+Especiais</h2>
+<blockquote>
+<p>“Porque Tu formaste o meu interior, Tu me teceste no seio de minha
+mãe. Graças Te dou, visto que por modo assombrosamente maravilhoso me
+formaste.” - Salmo 139:13-14</p>
+</blockquote>
+<h3 id="cada-criança-é-imagem-de-deus">Cada Criança é Imagem de
+Deus</h3>
+<ul>
+<li>Valor não está na capacidade</li>
+<li>Todas merecem amor e respeito</li>
+<li>Deus não comete erros</li>
+<li>A igreja deve ser lugar de acolhimento</li>
+</ul>
+<hr />
+<h2 id="autismo-tea---transtorno-do-espectro-autista">Autismo (TEA -
+Transtorno do Espectro Autista)</h2>
+<h3 id="o-que-é">O Que É</h3>
+<ul>
+<li>Condição neurológica (não é doença)</li>
+<li>Afeta comunicação e interação social</li>
+<li>Pode incluir comportamentos repetitivos</li>
+<li>Existe em diferentes níveis</li>
+</ul>
+<h3 id="características-comuns">Características Comuns</h3>
+<ul>
+<li>Dificuldade com mudanças de rotina</li>
+<li>Sensibilidade sensorial (luz, som, toque)</li>
+<li>Pode evitar contato visual</li>
+<li>Interesses específicos intensos</li>
+<li>Pode ter dificuldade de comunicação</li>
+</ul>
+<h3 id="como-acolher">Como Acolher</h3>
+<ul>
+<li>Ambiente previsível e calmo</li>
+<li>Avisar mudanças com antecedência</li>
+<li>Respeitar o espaço pessoal</li>
+<li>Usar linguagem clara e direta</li>
+<li>Ter paciência com o tempo de resposta</li>
+<li>Oferecer atividades alternativas</li>
+</ul>
+<hr />
+<h2 id="tdah-transtorno-de-déficit-de-atenção-e-hiperatividade">TDAH
+(Transtorno de Déficit de Atenção e Hiperatividade)</h2>
+<h3 id="o-que-é-1">O Que É</h3>
+<ul>
+<li>Condição neurológica</li>
+<li>Afeta atenção e controle de impulsos</li>
+<li>Pode incluir hiperatividade</li>
+<li>Não é “falta de educação”</li>
+</ul>
+<h3 id="características-comuns-1">Características Comuns</h3>
+<ul>
+<li>Dificuldade de concentração</li>
+<li>Agitação constante</li>
+<li>Fala muito e interrompe</li>
+<li>Dificuldade de esperar a vez</li>
+<li>Energia aparentemente inesgotável</li>
+</ul>
+<h3 id="como-acolher-1">Como Acolher</h3>
+<ul>
+<li>Atividades curtas e variadas</li>
+<li>Movimento é aliado, não inimigo</li>
+<li>Dar tarefas de responsabilidade</li>
+<li>Feedback positivo frequente</li>
+<li>Evitar punições que humilham</li>
+<li>Sentar perto do professor</li>
+</ul>
+<hr />
+<h2 id="outros-tipos-de-necessidades">Outros Tipos de Necessidades</h2>
+<h3 id="deficiência-física">Deficiência Física</h3>
+<ul>
+<li>Adaptar espaço para acessibilidade</li>
+<li>Não tratar como incapaz</li>
+<li>Incluir nas atividades (adaptar, não excluir)</li>
+<li>Perguntar antes de ajudar</li>
+</ul>
+<h3 id="síndrome-de-down">Síndrome de Down</h3>
+<ul>
+<li>Mais tempo para aprender</li>
+<li>Repetição é importante</li>
+<li>Muito carinho e afeto</li>
+<li>Celebrar cada conquista</li>
+<li>Usar mais recursos visuais</li>
+</ul>
+<h3 id="deficiência-auditivavisual">Deficiência Auditiva/Visual</h3>
+<ul>
+<li>Posicionar bem na sala</li>
+<li>Usar recursos visuais/táteis</li>
+<li>Falar de frente (leitura labial)</li>
+<li>Materiais em braile se necessário</li>
+</ul>
+<hr />
+<h2 id="segurança-no-ministério-infantil">Segurança no Ministério
+Infantil</h2>
+<h3 id="protocolo-de-check-incheck-out">Protocolo de
+Check-in/Check-out</h3>
+<ol type="1">
+<li>Criança só entra com responsável</li>
+<li>Registrar nome e contato</li>
+<li>Dar identificação (pulseira, crachá)</li>
+<li>Criança só sai com quem entregou</li>
+<li>Conferir identificação na saída</li>
+</ol>
+<h3 id="regra-dos-dois-adultos">Regra dos Dois Adultos</h3>
+<ul>
+<li>Nunca um adulto sozinho com criança</li>
+<li>Portas com visibilidade</li>
+<li>Câmeras se possível</li>
+<li>Banheiro acompanhado por dois</li>
+</ul>
+<h3 id="em-caso-de-emergência">Em Caso de Emergência</h3>
+<ul>
+<li>Ter contato dos pais acessível</li>
+<li>Saber de alergias e medicações</li>
+<li>Conhecer saídas de emergência</li>
+<li>Ter kit de primeiros socorros</li>
+</ul>
+<hr />
+<h2 id="princípios-de-inclusão">Princípios de Inclusão</h2>
+<h3 id="o-que-nunca-fazer">O Que NUNCA Fazer</h3>
+<ul>
+<li>Dizer “Deus está curando” negando a condição</li>
+<li>Tratar a criança como “coitadinha”</li>
+<li>Isolar “para não atrapalhar”</li>
+<li>Culpar os pais</li>
+<li>Prometer cura</li>
+</ul>
+<h3 id="o-que-sempre-fazer">O Que SEMPRE Fazer</h3>
+<ul>
+<li>Tratar com dignidade e respeito</li>
+<li>Perguntar aos pais como ajudar</li>
+<li>Celebrar cada pequeno progresso</li>
+<li>Criar ambiente seguro e acolhedor</li>
+<li>Treinar a equipe</li>
+</ul>
+<hr />
+<h1 id="fichas-e-materiais-práticos">FICHAS E MATERIAIS PRÁTICOS</h1>
+<h2 id="ficha-1-autoavaliação---tipos-de-obreiro">Ficha 1: Autoavaliação
+- Tipos de Obreiro</h2>
+<p><strong>Nome:</strong> _________________________________
+<strong>Data:</strong> _______________</p>
+<h3 id="os-4-tipos-escala-de-1-a-10">Os 4 Tipos (Escala de 1 a 10)</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Tipo</th>
+<th>Descrição</th>
+<th>Nota</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>GAIO</td>
+<td>Sirvo por amor genuíno</td>
+<td>___</td>
+</tr>
+<tr class="even">
+<td>DIÓTREFES</td>
+<td>Tenho traços de querer aparecer</td>
+<td>___</td>
+</tr>
+<tr class="odd">
+<td>“AMOSTRAÇÃO”</td>
+<td>Busco reconhecimento</td>
+<td>___</td>
+</tr>
+<tr class="even">
+<td>DEMÉTRIO</td>
+<td>Busco crescer e dar testemunho</td>
+<td>___</td>
+</tr>
+</tbody>
+</table>
+<h3 id="reflexão">Reflexão</h3>
+<ol type="1">
+<li>Se ninguém me visse, eu continuaria servindo igual?
+<ul class="task-list">
+<li><label><input type="checkbox"></input>Sim, com certeza</label></li>
+<li><label><input type="checkbox"></input>Provavelmente sim</label></li>
+<li><label><input type="checkbox"></input>Provavelmente não</label></li>
+<li><label><input type="checkbox"></input>Honestamente, não</label></li>
+</ul></li>
+<li>Como reajo quando outro recebe reconhecimento?
+<ul class="task-list">
+<li><label><input type="checkbox"></input>Me alegro genuinamente</label></li>
+<li><label><input type="checkbox"></input>Fico indiferente</label></li>
+<li><label><input type="checkbox"></input>Sinto frustração</label></li>
+<li><label><input type="checkbox"></input>Fico ressentido</label></li>
+</ul></li>
+<li>Minha família diria que sou mais espiritual na igreja ou em
+casa?</li>
+</ol>
+<hr />
+<h3 id="compromisso">Compromisso</h3>
+<p>A partir de hoje, me comprometo a:</p>
+<hr />
+<hr />
+<p><strong>Assinatura:</strong> ________________________________</p>
+<hr />
+<h2 id="ficha-2-meu-plano-de-multiplicação">Ficha 2: Meu Plano de
+Multiplicação</h2>
+<p><strong>Nome:</strong> _________________________________
+<strong>Data:</strong> _______________</p>
+<h3 id="quem-estou-formando-agora">Quem Estou Formando Agora?</h3>
+<p><strong>Pessoa 1:</strong> _________________________________</p>
+<ul class="task-list">
+<li><label><input type="checkbox"></input>Estágio 1: Eu faço, ela
+observa</label></li>
+<li><label><input type="checkbox"></input>Estágio 2: Eu faço, ela
+ajuda</label></li>
+<li><label><input type="checkbox"></input>Estágio 3: Ela faz, eu
+supervisiono</label></li>
+<li><label><input type="checkbox"></input>Estágio 4: Ela faz e
+multiplica</label></li>
+</ul>
+<p><strong>Próximo passo:</strong> _________________________________</p>
+<hr />
+<p><strong>Pessoa 2:</strong> _________________________________</p>
+<ul class="task-list">
+<li><label><input type="checkbox"></input>Estágio 1: Eu faço, ela
+observa</label></li>
+<li><label><input type="checkbox"></input>Estágio 2: Eu faço, ela
+ajuda</label></li>
+<li><label><input type="checkbox"></input>Estágio 3: Ela faz, eu
+supervisiono</label></li>
+<li><label><input type="checkbox"></input>Estágio 4: Ela faz e
+multiplica</label></li>
+</ul>
+<p><strong>Próximo passo:</strong> _________________________________</p>
+<hr />
+<h3 id="quem-vou-começar-a-formar">Quem Vou Começar a Formar?</h3>
+<p><strong>Pessoa:</strong> _________________________________</p>
+<p><strong>Por quê esta pessoa?</strong> - [ ] Tem fidelidade - [ ] Tem
+disponibilidade - [ ] Tem disposição - [ ] Tem coração de servo - [ ]
+Está alinhada com a visão</p>
+<p><strong>Primeiro passo:</strong>
+_________________________________</p>
+<p><strong>Quando:</strong> _________________________________</p>
+<hr />
+<h3 id="minha-ação-esta-semana">Minha Ação Esta Semana</h3>
+<hr />
+<hr />
+<p><strong>Parceiro de prestação de contas:</strong>
+_________________________________</p>
+<hr />
+<h2 id="ficha-3-compromisso-de-fidelidade">Ficha 3: Compromisso de
+Fidelidade</h2>
+<p><strong>Nome:</strong> _________________________________
+<strong>Data:</strong> _______________</p>
+<h3 id="submissão">Submissão</h3>
+<p>Eu me comprometo a: - [ ] Respeitar e honrar meu pastor e líderes - [
+] Não falar mal das autoridades da igreja - [ ] Ser leal à visão da ADMC
+- [ ] Submeter minhas ideias à aprovação pastoral - [ ] Orar por minhas
+autoridades</p>
+<h3 id="dízimos">Dízimos</h3>
+<p>Minha situação atual: - [ ] Sou dizimista fiel (100%) - [ ] Sou
+dizimista irregular - [ ] Não sou dizimista, mas quero começar - [ ]
+Tenho dificuldades financeiras</p>
+<p>Eu me comprometo a: - [ ] Ser fiel no dízimo de toda minha renda - [
+] Entregar o dízimo PRIMEIRO - [ ] Confiar na provisão de Deus</p>
+<h3 id="ofertas">Ofertas</h3>
+<p>Eu me comprometo a: - [ ] Dar ofertas com alegria - [ ] Contribuir
+para projetos da igreja - [ ] Ser generoso com outros</p>
+<h3 id="declaração">Declaração</h3>
+<p>Eu, __________________________________, diante de Deus, declaro meu
+compromisso de ser fiel em todas as áreas.</p>
+<p><strong>Assinatura:</strong> ________________________________</p>
+<hr />
+<h1 id="versículos-chave-do-curso">VERSÍCULOS-CHAVE DO CURSO</h1>
+<h2 id="sobre-trabalho-e-serviço">Sobre Trabalho e Serviço</h2>
+<blockquote>
+<p>“A seara é grande, mas poucos são os trabalhadores. Roguem, pois, ao
+Senhor da seara que envie trabalhadores para a sua seara.”<br />
+<strong>Mateus 9:37-38</strong></p>
+</blockquote>
+<h2 id="sobre-liderança-servidora">Sobre Liderança Servidora</h2>
+<blockquote>
+<p>“Quem quiser tornar-se importante entre vocês deverá ser servo; e
+quem quiser ser o primeiro deverá ser escravo de todos.”<br />
+<strong>Marcos 10:43-44</strong></p>
+</blockquote>
+<h2 id="sobre-multiplicação">Sobre Multiplicação</h2>
+<blockquote>
+<p>“O que de mim ouviste, transmite a homens fiéis que sejam também
+capazes de ensinar outros.”<br />
+<strong>2 Timóteo 2:2</strong></p>
+</blockquote>
+<h2 id="sobre-pastoreio">Sobre Pastoreio</h2>
+<blockquote>
+<p>“Pastoreiem o rebanho de Deus que está aos seus cuidados. Olhem por
+ele, não por obrigação, mas de livre vontade. Não ajam como dominadores,
+mas como exemplos.”<br />
+<strong>1 Pedro 5:2-3</strong></p>
+</blockquote>
+<h2 id="sobre-submissão">Sobre Submissão</h2>
+<blockquote>
+<p>“Todo homem esteja sujeito às autoridades superiores; porque não há
+autoridade que não proceda de Deus.”<br />
+<strong>Romanos 13:1</strong></p>
+</blockquote>
+<h2 id="sobre-dízimos">Sobre Dízimos</h2>
+<blockquote>
+<p>“Trazei todos os dízimos à casa do tesouro… e provai-me, diz o
+Senhor, se eu não vos abrir as janelas do céu.”<br />
+<strong>Malaquias 3:10</strong></p>
+</blockquote>
+<h2 id="sobre-ofertas">Sobre Ofertas</h2>
+<blockquote>
+<p>“Cada um contribua segundo propôs no seu coração, não com tristeza ou
+por necessidade; porque Deus ama ao que dá com alegria.”<br />
+<strong>2 Coríntios 9:7</strong></p>
+</blockquote>
+<h2 id="sobre-crianças">Sobre Crianças</h2>
+<blockquote>
+<p>“Deixai vir a mim as crianças e não as impeçais, porque delas é o
+Reino de Deus.”<br />
+<strong>Marcos 10:14</strong></p>
+</blockquote>
+<h2 id="sobre-valor-pessoal">Sobre Valor Pessoal</h2>
+<blockquote>
+<p>“Porque Tu formaste o meu interior, Tu me teceste no seio de minha
+mãe. Graças Te dou, visto que por modo assombrosamente maravilhoso me
+formaste.”<br />
+<strong>Salmo 139:13-14</strong></p>
+</blockquote>
+<hr />
+<h1 id="frases-memoráveis">FRASES MEMORÁVEIS</h1>
+<blockquote>
+<p>“A colheita não está parada por falta de gente. Está parada por falta
+de líderes preparados para colher.”</p>
+</blockquote>
+<blockquote>
+<p>“Líder não precisa de consolo o tempo todo. Precisa de direção, de
+desafio e de propósito.”</p>
+</blockquote>
+<blockquote>
+<p>“Todo líder é uma ponte que conecta o coração do pastor ao coração
+dos servos.”</p>
+</blockquote>
+<blockquote>
+<p>“A equipe não precisa de um chefe, precisa de um líder que serve com
+amor e conduz com propósito.”</p>
+</blockquote>
+<blockquote>
+<p>“Multiplicar é mais poderoso do que reter.”</p>
+</blockquote>
+<blockquote>
+<p>“Formar é liberar, não prender.”</p>
+</blockquote>
+<blockquote>
+<p>“O maior sucesso de um líder é ser substituído por alguém que ele
+mesmo formou.”</p>
+</blockquote>
+<blockquote>
+<p>“Se você não está formando ninguém, o que acontece se você sair ou
+adoecer?”</p>
+</blockquote>
+<blockquote>
+<p>“O que é fiel no pouco também é fiel no muito.”</p>
+</blockquote>
+<blockquote>
+<p>“Deus não comete erros. Cada criança é imagem Dele.”</p>
+</blockquote>
+<hr />
+<h1 id="anotações-pessoais">ANOTAÇÕES PESSOAIS</h1>
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<hr />
+<p><strong>Curso de Liderança e Obreiros - ADMC Sede 2026</strong></p>
+<p><strong>Ministrantes:</strong> Pr. Leivyson Lima | Pb. Adeilson
+Araújo</p>
+<p><em>“Multiplicar é mais poderoso que reter”</em></p>
+</body>
+</html>

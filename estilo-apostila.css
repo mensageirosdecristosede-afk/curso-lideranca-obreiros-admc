@@ -1,0 +1,289 @@
+/* ===========================================
+   ESTILO APOSTILA - CURSO DE LIDERANÇA ADMC
+   Otimizado para impressão em PDF
+   =========================================== */
+
+/* Reset e Base */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 12pt;
+  line-height: 1.6;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  background: #fff;
+}
+
+/* Cabeçalho */
+header {
+  text-align: center;
+  margin-bottom: 40px;
+  padding-bottom: 30px;
+  border-bottom: 3px double #2c3e50;
+}
+
+h1.title {
+  font-size: 28pt;
+  color: #2c3e50;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Sumário */
+nav#TOC {
+  background: #f8f9fa;
+  padding: 25px;
+  margin: 30px 0;
+  border-radius: 8px;
+  border-left: 5px solid #3498db;
+}
+
+nav#TOC h2 {
+  color: #2c3e50;
+  font-size: 18pt;
+  margin-top: 0;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+nav#TOC ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav#TOC > ul > li {
+  margin: 12px 0;
+}
+
+nav#TOC li ul {
+  padding-left: 20px;
+  margin-top: 8px;
+}
+
+nav#TOC a {
+  color: #34495e;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+nav#TOC a:hover {
+  color: #3498db;
+}
+
+/* Títulos */
+h1 {
+  font-size: 24pt;
+  color: #2c3e50;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #3498db;
+  page-break-before: always;
+}
+
+h1:first-of-type {
+  page-break-before: avoid;
+}
+
+h2 {
+  font-size: 18pt;
+  color: #34495e;
+  margin-top: 35px;
+  margin-bottom: 15px;
+  border-left: 4px solid #e74c3c;
+  padding-left: 15px;
+}
+
+h3 {
+  font-size: 14pt;
+  color: #2980b9;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 12pt;
+  color: #16a085;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  font-style: italic;
+}
+
+/* Parágrafos e Texto */
+p {
+  margin: 12px 0;
+  text-align: justify;
+}
+
+/* Listas */
+ul, ol {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+
+li {
+  margin: 8px 0;
+}
+
+/* Blockquotes - Versículos */
+blockquote {
+  background: linear-gradient(135deg, #667eea15, #764ba215);
+  border-left: 5px solid #9b59b6;
+  margin: 25px 0;
+  padding: 20px 25px;
+  font-style: italic;
+  border-radius: 0 8px 8px 0;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+/* Citações em destaque */
+blockquote strong {
+  color: #8e44ad;
+}
+
+/* Tabelas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 11pt;
+}
+
+th {
+  background: #2c3e50;
+  color: white;
+  padding: 12px;
+  text-align: left;
+  font-weight: bold;
+}
+
+td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
+tr:hover {
+  background: #e8f4f8;
+}
+
+/* Linhas horizontais */
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #3498db, transparent);
+  margin: 40px 0;
+}
+
+/* Ênfases */
+strong {
+  color: #2c3e50;
+}
+
+em {
+  color: #7f8c8d;
+}
+
+/* Caixas especiais */
+.box-destaque {
+  background: #e8f4f8;
+  border: 2px solid #3498db;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 25px 0;
+}
+
+/* Emojis como ícones */
+p:first-child {
+  font-size: 14pt;
+}
+
+/* Seções de Aula */
+h1:contains("AULA") {
+  background: #2c3e50;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Links */
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Estilos para Impressão */
+@media print {
+  body {
+    padding: 0;
+    font-size: 11pt;
+  }
+  
+  h1 {
+    page-break-before: always;
+    page-break-after: avoid;
+  }
+  
+  h2, h3 {
+    page-break-after: avoid;
+  }
+  
+  table, blockquote {
+    page-break-inside: avoid;
+  }
+  
+  nav#TOC {
+    page-break-after: always;
+  }
+  
+  a {
+    color: #333;
+  }
+  
+  a[href]:after {
+    content: none;
+  }
+}
+
+/* Fichas Práticas */
+h2:contains("FICHA") {
+  background: #27ae60;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: none;
+}
+
+/* Anotações */
+h2:contains("ANOTAÇÕES") + p + hr + p,
+h2:contains("ANOTAÇÕES") ~ p:contains("___") {
+  border: 1px dashed #bdc3c7;
+  min-height: 50px;
+  margin: 10px 0;
+}
+
+/* Espaço final */
+footer {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 2px solid #2c3e50;
+  text-align: center;
+  font-style: italic;
+  color: #7f8c8d;
+}
