@@ -15,6 +15,8 @@
 
 *Aula 1 de 5*
 
+**2026 - Ano da Edificação**
+
 ---
 
 ## SLIDE 2 - BEM-VINDOS!
@@ -39,111 +41,217 @@
 
 ---
 
-## SLIDE 4 - INTRODUÇÃO DO CURSO
+## SLIDE 4 - QUEM SOMOS
 
-# 📚 POR QUE ESTE CURSO EXISTE?
+# 🏛️ AD MENSAGEIROS DA CIDADE
 
-✅ Reciclagem e aperfeiçoamento  
-✅ Alinhamento com a visão da igreja  
-✅ Fortalecimento da liderança  
-✅ Capacitação para servir melhor  
-✅ Unidade na obra de Deus  
+### Nossa História
+- Fundada pelo **Pastor Levy**
+- CNPJ desde **2006**
+- Mais de **40 anos** de história
+- **Sede** em Valparaíso de Goiás
+- **11 congregações** (9 em Valparaíso + 2 fora do estado)
+  - Brasilândia de Minas Gerais
+  - São Desidério - Bahia
 
 ---
 
-## SLIDE 5 - ESTRUTURA DO CURSO
+## SLIDE 5 - COMPROMISSO MISSIONÁRIO
+
+# 🌍 COMPROMISSO MISSIONÁRIO
+
+### Missões Kayros e Jocum
+- Missionários enviados para:
+  - 🇲🇽 México
+  - 🇮🇶 Iraque
+  - 🌍 África
+  - 🇧🇷 Diversas regiões do Brasil
+  - 🏕️ Tribos indígenas
+
+*"Alcançando corações ao redor do mundo"*
+
+---
+
+## SLIDE 6 - PILARES
+
+# 🏗️ NOSSOS PILARES
+
+- 📖 **EBD Forte** - Escola Bíblica Dominical
+- 📚 **Cultos de Ensino** consistentes
+- 📜 **Fundamentados na Palavra** de Deus
+- 🎓 **Conhecimento bíblico sólido** = vida cristã madura
+
+---
+
+## SLIDE 7 - BASE DOUTRINÁRIA
+
+# 📜 BASE DOUTRINÁRIA E ESTATUTÁRIA
+
+- ✅ **Declaração de Fé da CGADB**
+- ✅ **Estatuto da AD Mensageiros de Cristo**
+- ✅ **Bíblia** como única regra de fé e prática
+- ✅ **Liderança submetida** à Palavra, Estatuto e princípios cristãos
+
+> *"Toda Escritura é divinamente inspirada por Deus."*  
+> **2 Timóteo 3:16**
+
+---
+
+## SLIDE 8 - TRANSPARÊNCIA
+
+# 🏛️ TRANSPARÊNCIA E LEGALIDADE
+
+### Somos uma igreja:
+- ✅ Ligada à **CGADB** (Convenção Geral das Assembleias de Deus no Brasil)
+- ✅ Com **estatuto interno vigente**
+- ✅ **Regulamento disponível** para consulta
+- ✅ **Transparência** e organização conforme princípios bíblicos e legais
+
+---
+
+## SLIDE 9 - VISÃO DA IGREJA
+
+# 👁️ VISÃO DA IGREJA
+
+### "Pregar, edificar, cuidar e servir"
+
+- 📖 **Pregar fielmente** a Palavra de Deus
+- 🏗️ **Edificar vidas** espiritualmente e integralmente
+- 💝 **Cuidar** das almas e das famílias
+- 🤝 **Servir** com amor, zelo e compromisso
+
+> *"Onde não há visão, o povo perece."*  
+> **Provérbios 29:18**
+
+---
+
+## SLIDE 10 - MISSÃO DA IGREJA
+
+# 🎯 MISSÃO DA IGREJA
+
+- 📢 **Proclamar** o Evangelho genuíno de Jesus Cristo
+- 📚 **Ensinar** fielmente a Palavra de Deus
+- 🙌 **Promover** adoração verdadeira
+- ❤️ **Servir** à comunidade com amor e excelência
+
+> *"Ide e fazei discípulos de todas as nações."*  
+> **Mateus 28:19-20**
+
+---
+
+## SLIDE 11 - VALORES FUNDAMENTAIS
+
+# 💎 VALORES FUNDAMENTAIS
+
+| Valor | Significado |
+|-------|-------------|
+| 📖 **Palavra de Deus** | Regra de fé e prática |
+| 🙏 **Oração** | Dependência total de Deus |
+| 🤝 **Comunhão** | Unidade e relacionamento saudável |
+| 📢 **Evangelismo** | Compromisso com a missão |
+
+> *"Perseveravam na doutrina, comunhão, partir do pão e orações."*  
+> **Atos 2:42**
+
+---
+
+## SLIDE 12 - OBJETIVOS 2026
+
+# 🎯 OBJETIVOS ESTRATÉGICOS - 2026
+
+### Crescimento da Igreja (pessoas)
+- 🙌 **SALVAÇÃO DE ALMAS**
+- 👥 Acompanhamento pastoral
+- 📅 Reuniões trimestrais
+- 📋 Registro e cuidado com visitantes
+
+### Maturidade espiritual da Igreja
+- 💫 Mudança de comportamento e testemunho
+- 👷 Obreiros preparados espiritual e humanamente
+
+> *"Até que todos cheguemos à maturidade."*  
+> **Efésios 4:13**
+
+---
+
+## SLIDE 13 - LIDERANÇA DA IGREJA
+
+# 👥 NOSSA LIDERANÇA
+
+| Cargo | Nome |
+|-------|------|
+| **Pastor Presidente** | Pr. Boanerges Rosa |
+| **1º Vice-Presidente** | Pr. Leivyson Lima |
+| **2º Vice-Presidente** | Pr(a) Helena |
+
+*Pastores e obreiros dedicados ao serviço de Deus*
+
+---
+
+## SLIDE 14 - ESTATUTO - OBREIROS
+
+# 📜 O QUE DIZ O ESTATUTO SOBRE OBREIROS
+
+### Definição de Obreiro (Art. 15)
+- Todo membro que exerce função ministerial ou auxiliar
+- Aprovado pela liderança local
+- Submetido ao Estatuto e Regimento Interno
+
+### Categorias de Obreiros:
+- **Ministros** (Pastores, Evangelistas, Presbíteros)
+- **Auxiliares** (Diáconos, Cooperadores, Líderes de Departamento)
+
+---
+
+## SLIDE 15 - ESTATUTO - REQUISITOS
+
+# ✅ REQUISITOS PARA SER OBREIRO
+
+### Segundo o Estatuto da ADMC:
+
+1. **Ser membro** em plena comunhão
+2. **Batizado** nas águas e no Espírito Santo
+3. **Vida exemplar** - testemunho irrepreensível
+4. **Conhecimento bíblico** adequado
+5. **Fidelidade** nos dízimos e ofertas
+6. **Submissão** à liderança constituída
+7. **Aprovação** em curso de formação
+
+> *"Convém, pois, que o bispo seja irrepreensível..."*  
+> **1 Timóteo 3:2**
+
+---
+
+## SLIDE 16 - ESTATUTO - DEVERES
+
+# 📋 DEVERES DO OBREIRO (Estatuto)
+
+### Todo obreiro deve:
+- ✅ **Participar** fielmente dos cultos e reuniões
+- ✅ **Zelar** pela doutrina e bons costumes
+- ✅ **Respeitar** a hierarquia eclesiástica
+- ✅ **Manter** sigilo sobre assuntos internos
+- ✅ **Contribuir** regularmente com dízimos e ofertas
+- ✅ **Servir** com amor e dedicação
+- ✅ **Dar exemplo** em todas as áreas da vida
+
+---
+
+## SLIDE 17 - ESTRUTURA DO CURSO
 
 # 📋 COMO SERÁ O CURSO?
 
 | Aula | Ministrante | Tema |
 |------|-------------|------|
-| 1 | Pr. Leivyson | Introdução e Tipos de Obreiros |
-| 2 | Pb. Adeilson | Liderança Servidora |
-| 3 | Pb. Adeilson | Liderança Multiplicadora |
-| 4 | Pr. Leivyson | Submissão, Dízimos e Ofertas |
-| 5 | Pr. Leivyson | Cuidado com as Crianças |
+| **1** | Pr. Leivyson | Introdução e Tipos de Obreiros |
+| **2** | Pb. Adeilson | Liderança Servidora |
+| **3** | Pb. Adeilson | Liderança Multiplicadora |
+| **4** | Pr. Leivyson | Submissão, Dízimos e Ofertas |
+| **5** | Pr. Leivyson | Cuidado com as Crianças |
 
 ---
 
-## SLIDE 6 - TEXTO BASE
-
-# 📖 TEXTO BASE
-
-> *"E ele mesmo deu uns para apóstolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores, querendo o **aperfeiçoamento dos santos**, para a **obra do ministério**, para edificação do corpo de Cristo."*
-
-**Efésios 4:11-12**
-
----
-
-## SLIDE 7 - VISÃO
-
-# 👁️ NOSSA VISÃO
-
-- 🙌 Ser uma igreja que **glorifica a Deus**
-- 💝 **Alcançar vidas** para Cristo
-- 📖 Formar **discípulos comprometidos**
-- 🌍 **Impactar a comunidade** com o Evangelho
-
----
-
-## SLIDE 8 - MISSÃO
-
-# 🎯 NOSSA MISSÃO
-
-- ⭐ **Adorar** a Deus com excelência
-- 📚 **Ensinar** a Palavra com fidelidade
-- 📢 **Evangelizar** com ousadia
-- 🤝 **Servir** com amor e dedicação
-- ❤️ **Comunhão** genuína entre os irmãos
-
----
-
-## SLIDE 9 - VALORES
-
-# 💎 NOSSOS VALORES
-
-| Valor | Significado |
-|-------|-------------|
-| **Fidelidade** | A Bíblia é nossa regra |
-| **Oração** | Dependência de Deus |
-| **Unidade** | Trabalhamos juntos |
-| **Excelência** | O melhor para Deus |
-| **Submissão** | Respeito à liderança |
-| **Compromisso** | Responsabilidade |
-| **Família** | Relacionamentos |
-
----
-
-## SLIDE 10 - OBJETIVOS 2026
-
-# 🎯 OBJETIVOS PARA 2026
-
-✅ Fortalecer a base ministerial  
-✅ Alinhar obreiros com a visão pastoral  
-✅ Melhorar comunicação nas equipes  
-✅ Capacitar novos líderes  
-✅ Aumentar comprometimento  
-✅ Criar cultura de excelência  
-
----
-
-## SLIDE 11 - DESAFIOS
-
-# ⚠️ DESAFIOS A SUPERAR
-
-❌ Falta de comprometimento  
-❌ Desalinhamento com a visão  
-❌ Conflitos não resolvidos  
-❌ Falta de preparo  
-❌ Individualismo  
-❌ Falta de submissão  
-
-> *"Assim edificamos o muro... porque o povo tinha ânimo para trabalhar."*  
-> **Neemias 4:6**
-
----
-
-## SLIDE 12 - REGRAS DO CURSO
+## SLIDE 18 - REGRAS DO CURSO
 
 # 📋 REGRAS E COMPROMISSO
 
@@ -155,7 +263,7 @@
 
 ---
 
-## SLIDE 13 - COMPROMISSO
+## SLIDE 19 - COMPROMISSO
 
 # 🤝 NOSSO COMPROMISSO
 
@@ -167,7 +275,7 @@
 
 ---
 
-## SLIDE 14 - AVALIAÇÃO
+## SLIDE 20 - AVALIAÇÃO
 
 # 📝 COMO SERÁ A AVALIAÇÃO?
 
@@ -178,7 +286,7 @@
 
 ---
 
-## SLIDE 15 - TRANSIÇÃO
+## SLIDE 21 - INTERVALO
 
 # ☕ INTERVALO
 
@@ -188,7 +296,7 @@
 
 ---
 
-## SLIDE 16 - TEMA PRINCIPAL
+## SLIDE 22 - TEMA PRINCIPAL
 
 # 🔍 QUE TIPO DE OBREIRO SOU EU?
 
@@ -199,7 +307,7 @@
 
 ---
 
-## SLIDE 17 - INTRODUÇÃO TIPOS
+## SLIDE 23 - INTRODUÇÃO TIPOS
 
 # 📊 OS 4 TIPOS DE OBREIROS
 
@@ -214,7 +322,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 18 - TIPO 1
+## SLIDE 24 - TIPO 1
 
 # 💝 1. O QUE SERVE POR AMOR
 ## (Tipo GAIO - 3 João 3-8)
@@ -229,7 +337,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 19 - GAIO NA PRÁTICA
+## SLIDE 25 - GAIO NA PRÁTICA
 
 # 💝 O OBREIRO QUE SERVE POR AMOR
 
@@ -244,7 +352,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 20 - TIPO 2
+## SLIDE 26 - TIPO 2
 
 # 🪞 2. O QUE SERVE PARA SE AMOSTRAR
 ## (Tipo Orgulhoso)
@@ -259,7 +367,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 21 - ALERTA ORGULHO
+## SLIDE 27 - ALERTA ORGULHO
 
 # ⚠️ SINAIS DE ALERTA
 
@@ -274,7 +382,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 22 - TIPO 3
+## SLIDE 28 - TIPO 3
 
 # 👑 3. O QUE SERVE POR TÍTULO
 ## (Tipo DIÓTREFES - 3 João 9-10)
@@ -289,7 +397,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 23 - DIÓTREFES TEXTO
+## SLIDE 29 - DIÓTREFES TEXTO
 
 # 👑 O PERIGO DE DIÓTREFES
 
@@ -305,7 +413,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 24 - TIPO 4
+## SLIDE 30 - TIPO 4
 
 # 💰 4. O QUE SERVE PARA CRESCER
 ## (Tipo Interesseiro)
@@ -320,7 +428,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 25 - SIMÃO MAGO
+## SLIDE 31 - SIMÃO MAGO
 
 # ⚠️ O PERIGO DO INTERESSE
 
@@ -335,7 +443,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 26 - DEMÉTRIO
+## SLIDE 32 - DEMÉTRIO
 
 # ⭐ O OBREIRO IDEAL: DEMÉTRIO
 ## (3 João 12)
@@ -351,7 +459,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 27 - RESUMO TIPOS
+## SLIDE 33 - RESUMO TIPOS
 
 # 📊 RESUMO: QUE TIPO SOU EU?
 
@@ -365,7 +473,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 28 - REFLEXÃO
+## SLIDE 34 - REFLEXÃO
 
 # 🪞 MOMENTO DE REFLEXÃO
 
@@ -379,7 +487,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 29 - DINÂMICA
+## SLIDE 35 - DINÂMICA
 
 # ✍️ DINÂMICA: AUTOAVALIAÇÃO
 
@@ -395,7 +503,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 30 - ORAÇÃO
+## SLIDE 36 - ORAÇÃO
 
 # 🙏 MOMENTO DE ORAÇÃO
 
@@ -409,7 +517,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 31 - PRÓXIMAS AULAS
+## SLIDE 37 - PRÓXIMAS AULAS
 
 # 📅 PRÓXIMAS AULAS
 
@@ -422,7 +530,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 32 - VERSÍCULO SEMANA
+## SLIDE 38 - VERSÍCULO SEMANA
 
 # 📖 VERSÍCULO DA SEMANA
 
@@ -434,7 +542,7 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 33 - TAREFA
+## SLIDE 39 - TAREFA
 
 # 📝 TAREFA PARA CASA
 
@@ -445,24 +553,26 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 
 ---
 
-## SLIDE 34 - ENCERRAMENTO
+## SLIDE 40 - ENCERRAMENTO
 
 # 🙏 ENCERRAMENTO
 
 ### Oração Final
 
-*"Senhor, ajuda-nos a ser obreiros aprovados, que servem por amor, com fidelidade e humildade. Que possamos ser como Gaio e Demétrio, e nunca como Diótrefes. Em nome de Jesus, Amém!"*
+*"Senhor, ajuda-nos a ser obreiros aprovados, que servem por amor, com fidelidade e humildade. Que possamos ser como Gaio e Demétrio, e nunca como Diótrefes. Abençoa nossa igreja ADMC, nossos pastores e todos os obreiros. Em nome de Jesus, Amém!"*
 
 ---
 
-## SLIDE 35 - FINAL
+## SLIDE 41 - FINAL
 
 # 🎓 OBRIGADO!
 
 ## Até a próxima aula!
 
 **AD Mensageiros da Cidade**  
-*Formando líderes que servem*
+*"Igreja, Vida e Família"*
+
+*Edificados sobre o fundamento dos apóstolos e profetas, sendo ele mesmo, Cristo Jesus, a pedra angular.* — Efésios 2:20
 
 **Pr. Leivyson Lima**
 
@@ -474,22 +584,32 @@ Na epístola de 3 João, encontramos personagens que representam diferentes tipo
 - Fichas de autoavaliação impressas
 - Canetas para participantes
 - Lista de presença
+- Estatuto da igreja (cópias ou projeção)
 
 ### Dicas de condução:
 1. Na apresentação, incentive todos a falarem
-2. No tema dos tipos de obreiros, use exemplos práticos (sem citar nomes)
-3. Na dinâmica, crie ambiente reverente
-4. No encerramento, ore com imposição de mãos nos que desejarem
+2. Nos slides sobre a igreja, destaque a história e missão
+3. No tema dos tipos de obreiros, use exemplos práticos (sem citar nomes)
+4. Na dinâmica, crie ambiente reverente
+5. No encerramento, ore com imposição de mãos nos que desejarem
 
 ### Tempo por bloco:
-- Abertura: 20min
-- Introdução: 20min
-- Visão/Missão/Valores: 30min
-- Objetivos/Desafios: 25min
-- Regras: 20min
+- Abertura: 15min
+- Apresentação ADMC (história, visão, missão): 30min
+- Base doutrinária e Estatuto: 20min
+- Estrutura do curso: 10min
 - Intervalo: 15min
 - Tipos de Obreiros: 40min
 - Dinâmica: 15min
 - Encerramento: 15min
 
-**Total:** ~2h30
+**Total:** ~2h40
+
+### Versículos-chave mencionados:
+- 2 Timóteo 3:16 (Base doutrinária)
+- Provérbios 29:18 (Visão)
+- Mateus 28:19-20 (Missão)
+- Atos 2:42 (Valores)
+- Efésios 4:13 (Objetivos)
+- 1 Timóteo 3:2 (Requisitos do obreiro)
+- Efésios 2:20 (Lema do ano)

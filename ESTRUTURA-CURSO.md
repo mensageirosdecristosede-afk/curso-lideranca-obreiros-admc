@@ -44,52 +44,113 @@
 **Texto-base:** Efésios 4:11-12  
 *"E ele mesmo deu uns para apóstolos, e outros para profetas, e outros para evangelistas, e outros para pastores e doutores, querendo o aperfeiçoamento dos santos, para a obra do ministério, para edificação do corpo de Cristo."*
 
-#### 3. VISÃO, MISSÃO E VALORES DA ADMC (30min)
+#### 3. HISTÓRIA, VISÃO, MISSÃO E VALORES DA ADMC (30min)
 **Conteúdo:**
 
-**VISÃO:**
-- Ser uma igreja que glorifica a Deus
-- Alcançar vidas para Cristo
-- Formar discípulos comprometidos
-- Impactar a comunidade com o Evangelho
+**NOSSA HISTÓRIA:**
+- Fundada pelo **Pastor Levy**
+- CNPJ desde **2006**
+- Mais de **40 anos** de história
+- **Sede** em Valparaíso de Goiás
+- **11 congregações** (9 em Valparaíso + 2 fora do estado)
+  - Brasilândia de Minas Gerais
+  - São Desidério - Bahia
+
+**COMPROMISSO MISSIONÁRIO:**
+- Missões Kayros e Jocum
+- Missionários enviados para: México, Iraque, África, Brasil e tribos indígenas
+
+**NOSSOS PILARES:**
+- EBD Forte - Escola Bíblica Dominical
+- Cultos de Ensino consistentes
+- Fundamentados na Palavra de Deus
+
+**BASE DOUTRINÁRIA E ESTATUTÁRIA:**
+- Declaração de Fé da CGADB
+- Estatuto da AD Mensageiros de Cristo
+- Bíblia como única regra de fé e prática
+- Liderança submetida à Palavra, Estatuto e princípios cristãos
+
+**Texto:** 2 Timóteo 3:16 – "Toda Escritura é divinamente inspirada por Deus."
+
+**VISÃO:** "Pregar, edificar, cuidar e servir"
+- Pregar fielmente a Palavra de Deus
+- Edificar vidas espiritualmente e integralmente
+- Cuidar das almas e das famílias
+- Servir com amor, zelo e compromisso
+
+**Texto:** Provérbios 29:18 – "Onde não há visão, o povo perece."
 
 **MISSÃO:**
-- Adorar a Deus com excelência
-- Ensinar a Palavra com fidelidade
-- Evangelizar com ousadia
-- Servir com amor e dedicação
-- Comunhão genuína entre os irmãos
+- Proclamar o Evangelho genuíno de Jesus Cristo
+- Ensinar fielmente a Palavra de Deus
+- Promover adoração verdadeira
+- Servir à comunidade com amor e excelência
 
-**VALORES:**
-- **Fidelidade à Palavra** - A Bíblia é nossa única regra de fé e prática
-- **Oração** - Dependência total de Deus
-- **Unidade** - Trabalhamos juntos, sem divisões
-- **Excelência** - O melhor para Deus
-- **Submissão** - Respeito à liderança estabelecida
-- **Compromisso** - Responsabilidade com o chamado
-- **Família** - Valorizamos os relacionamentos
+**Texto:** Mateus 28:19-20 – "Ide e fazei discípulos de todas as nações."
 
-#### 4. OBJETIVOS E DESAFIOS (25min)
+**VALORES FUNDAMENTAIS:**
+- **Palavra de Deus** – regra de fé e prática
+- **Oração** – dependência total de Deus
+- **Comunhão** – unidade e relacionamento saudável
+- **Evangelismo** – compromisso com a missão
+
+**Texto:** Atos 2:42 – "Perseveravam na doutrina, comunhão, pão e orações."
+
+#### 4. OBJETIVOS ESTRATÉGICOS 2026 E ESTRUTURA DA LIDERANÇA (25min)
 **Conteúdo:**
 
-**OBJETIVOS PARA 2026:**
-- Fortalecer a base ministerial da igreja
-- Alinhar todos os obreiros com a visão pastoral
-- Melhorar a comunicação entre liderança e equipes
-- Capacitar novos líderes
-- Aumentar o comprometimento e frequência
-- Criar cultura de excelência no serviço
+**NOSSA LIDERANÇA:**
+| Cargo | Nome |
+|-------|------|
+| Pastor Presidente | Pr. Boanerges Rosa |
+| 1º Vice-Presidente | Pr. Leivyson Lima |
+| 2º Vice-Presidente | Pr(a) Helena |
 
-**DESAFIOS A SUPERAR:**
-- Falta de comprometimento de alguns obreiros
-- Desalinhamento com a visão da igreja
-- Conflitos não resolvidos entre membros
-- Falta de preparo para o serviço
-- Individualismo x trabalho em equipe
-- Falta de submissão à liderança
+**OBJETIVOS ESTRATÉGICOS - 2026:**
 
-**Texto-base:** Neemias 4:6  
-*"Assim edificamos o muro... porque o povo tinha ânimo para trabalhar."*
+*Crescimento da Igreja (pessoas):*
+- SALVAÇÃO DE ALMAS
+- Acompanhamento pastoral
+- Reuniões trimestrais
+- Registro e cuidado com visitantes
+
+*Maturidade espiritual da Igreja:*
+- Mudança de comportamento e testemunho
+- Obreiros preparados espiritual e humanamente
+
+**Texto:** Efésios 4:13 – "Até que todos cheguemos à maturidade."
+
+**O OBREIRO SEGUNDO O ESTATUTO:**
+
+*Definição:*
+- Todo membro que exerce função ministerial ou auxiliar
+- Aprovado pela liderança local
+- Submetido ao Estatuto e Regimento Interno
+
+*Categorias de Obreiros:*
+- **Ministros** (Pastores, Evangelistas, Presbíteros)
+- **Auxiliares** (Diáconos, Cooperadores, Líderes de Departamento)
+
+*Requisitos para Ser Obreiro:*
+1. Ser membro em plena comunhão
+2. Batizado nas águas e no Espírito Santo
+3. Vida exemplar - testemunho irrepreensível
+4. Conhecimento bíblico adequado
+5. Fidelidade nos dízimos e ofertas
+6. Submissão à liderança constituída
+7. Aprovação em curso de formação
+
+**Texto:** 1 Timóteo 3:2 – "Convém, pois, que o bispo seja irrepreensível..."
+
+*Deveres do Obreiro:*
+- Participar fielmente dos cultos e reuniões
+- Zelar pela doutrina e bons costumes
+- Respeitar a hierarquia eclesiástica
+- Manter sigilo sobre assuntos internos
+- Contribuir regularmente com dízimos e ofertas
+- Servir com amor e dedicação
+- Dar exemplo em todas as áreas da vida
 
 #### 5. REGRAS E COMPROMISSO DO CURSO (20min)
 **Conteúdo:**

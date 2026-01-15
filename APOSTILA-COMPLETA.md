@@ -66,30 +66,141 @@ Este curso foi elaborado para formar líderes servos que multiplicam. Ao longo d
 
 ## Objetivos da Aula
 
+- Conhecer a história e estrutura da ADMC
 - Apresentar a visão, missão e valores da ADMC
+- Compreender a base doutrinária e estatutária
 - Conhecer os 4 tipos de obreiros
 - Realizar autoavaliação pessoal
 - Estabelecer as regras do curso
 
 ---
 
-## Visão da ADMC
+## Nossa História - AD Mensageiros da Cidade
 
-> **"Ser uma igreja que transforma vidas através do Evangelho de Jesus Cristo, formando discípulos que fazem discípulos."**
+- **Fundada** pelo Pastor Levy
+- **CNPJ** desde 2006
+- Mais de **40 anos** de história
+- **Sede** em Valparaíso de Goiás
+- **11 congregações** (9 em Valparaíso + 2 fora do estado: Brasilândia/MG e São Desidério/BA)
 
-## Missão da ADMC
+### Compromisso Missionário
+- Missões Kayros e Jocum (Jovens com Uma Missão)
+- Missionários enviados para: México, Iraque, África, diversas regiões do Brasil e tribos indígenas
 
-> **"Proclamar o Evangelho, formar discípulos maduros e multiplicar líderes para a glória de Deus."**
+### Nossos Pilares
+- EBD Forte - Escola Bíblica Dominical
+- Cultos de Ensino consistentes
+- Fundamentados na Palavra de Deus
+- Conhecimento bíblico sólido = vida cristã madura
 
-## Valores da ADMC
+---
 
-1. **Palavra de Deus** - A Bíblia é nossa única regra de fé e prática
-2. **Oração** - Dependência total de Deus
-3. **Comunhão** - Relacionamentos genuínos
-4. **Serviço** - Todos somos chamados a servir
-5. **Evangelismo** - Alcançar os perdidos
-6. **Discipulado** - Formar vidas
-7. **Excelência** - O melhor para Deus
+## Base Doutrinária e Estatutária
+
+- ✅ Declaração de Fé da CGADB
+- ✅ Estatuto da AD Mensageiros de Cristo
+- ✅ Bíblia como única regra de fé e prática
+- ✅ Liderança submetida à Palavra, Estatuto e princípios cristãos
+
+> "Toda Escritura é divinamente inspirada por Deus." - 2 Timóteo 3:16
+
+### Transparência e Legalidade
+- Igreja ligada à **CGADB** (Convenção Geral das Assembleias de Deus no Brasil)
+- Estatuto interno vigente
+- Regulamento disponível para consulta
+- Transparência e organização conforme princípios bíblicos e legais
+
+---
+
+## Visão da Igreja
+
+### "Pregar, edificar, cuidar e servir"
+
+- 📖 **Pregar fielmente** a Palavra de Deus
+- 🏗️ **Edificar vidas** espiritualmente e integralmente
+- 💝 **Cuidar** das almas e das famílias
+- 🤝 **Servir** com amor, zelo e compromisso
+
+> "Onde não há visão, o povo perece." - Provérbios 29:18
+
+## Missão da Igreja
+
+- 📢 **Proclamar** o Evangelho genuíno de Jesus Cristo
+- 📚 **Ensinar** fielmente a Palavra de Deus
+- 🙌 **Promover** adoração verdadeira
+- ❤️ **Servir** à comunidade com amor e excelência
+
+> "Ide e fazei discípulos de todas as nações." - Mateus 28:19-20
+
+## Valores Fundamentais
+
+| Valor | Significado |
+|-------|-------------|
+| **Palavra de Deus** | Regra de fé e prática |
+| **Oração** | Dependência total de Deus |
+| **Comunhão** | Unidade e relacionamento saudável |
+| **Evangelismo** | Compromisso com a missão |
+
+> "Perseveravam na doutrina, comunhão, partir do pão e orações." - Atos 2:42
+
+---
+
+## Objetivos Estratégicos - 2026
+
+### Crescimento da Igreja (pessoas)
+- 🙌 **SALVAÇÃO DE ALMAS**
+- 👥 Acompanhamento pastoral
+- 📅 Reuniões trimestrais
+- 📋 Registro e cuidado com visitantes
+
+### Maturidade espiritual da Igreja
+- 💫 Mudança de comportamento e testemunho
+- 👷 Obreiros preparados espiritual e humanamente
+
+> "Até que todos cheguemos à maturidade." - Efésios 4:13
+
+---
+
+## Nossa Liderança
+
+| Cargo | Nome |
+|-------|------|
+| **Pastor Presidente** | Pr. Boanerges Rosa |
+| **1º Vice-Presidente** | Pr. Leivyson Lima |
+| **2º Vice-Presidente** | Pr(a) Helena |
+
+---
+
+## O Obreiro Segundo o Estatuto
+
+### Definição de Obreiro
+- Todo membro que exerce função ministerial ou auxiliar
+- Aprovado pela liderança local
+- Submetido ao Estatuto e Regimento Interno
+
+### Categorias de Obreiros
+- **Ministros** (Pastores, Evangelistas, Presbíteros)
+- **Auxiliares** (Diáconos, Cooperadores, Líderes de Departamento)
+
+### Requisitos para Ser Obreiro
+1. Ser membro em plena comunhão
+2. Batizado nas águas e no Espírito Santo
+3. Vida exemplar - testemunho irrepreensível
+4. Conhecimento bíblico adequado
+5. Fidelidade nos dízimos e ofertas
+6. Submissão à liderança constituída
+7. Aprovação em curso de formação
+
+> "Convém, pois, que o bispo seja irrepreensível..." - 1 Timóteo 3:2
+
+### Deveres do Obreiro
+- Participar fielmente dos cultos e reuniões
+- Zelar pela doutrina e bons costumes
+- Respeitar a hierarquia eclesiástica
+- Manter sigilo sobre assuntos internos
+- Contribuir regularmente com dízimos e ofertas
+- Servir com amor e dedicação
+- Dar exemplo em todas as áreas da vida
 
 ---
 
