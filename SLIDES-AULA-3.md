@@ -1,5 +1,7 @@
-# ENCONTRO 2: PRÁTICAS DE LIDERANÇA MULTIPLICADORA
-## Formando Líderes que Formam Outros: A Cultura do Servir
+# SLIDES - AULA 3
+## Liderança que Multiplica: Formando Líderes que Formam Outros
+
+**Ministrante:** Pb. Adeilson Araújo
 
 ---
 

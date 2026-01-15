@@ -1,5 +1,7 @@
-# ENCONTRO 1: FUNDAMENTOS DA LIDERANÇA SERVIDORA
-## De Ovelha a Trabalhador: O Coração do Líder que Serve
+# SLIDES - AULA 2
+## Liderança Servidora: O Coração do Líder que Serve
+
+**Ministrante:** Pb. Adeilson Araújo
 
 ---
 

@@ -93,11 +93,11 @@ Este é um curso prático e transformador para formar líderes servos que multip
    - História ADMC, visão/missão, estatuto, tipos de obreiros
    - 41 slides completos
 
-4. **[SLIDES-ENCONTRO-1.md](SLIDES-ENCONTRO-1.md)** - Pb. Adeilson Araújo (Aula 2)
+4. **[SLIDES-AULA-2.md](SLIDES-AULA-2.md)** - Pb. Adeilson Araújo
    - Liderança Servidora
    - 36 slides completos
 
-5. **[SLIDES-ENCONTRO-2.md](SLIDES-ENCONTRO-2.md)** - Pb. Adeilson Araújo (Aula 3)
+5. **[SLIDES-AULA-3.md](SLIDES-AULA-3.md)** - Pb. Adeilson Araújo
    - Liderança que Multiplica
    - 46 slides completos
 
@@ -327,23 +327,33 @@ ADMC Sede - 2026
 ```
 curso-lideranca-admc/
 │
-├── README.md (você está aqui!)
+├── 📖 README.md (você está aqui!)
 │
-├── ESTRUTURA-CURSO.md ⭐ (Visão geral das 5 aulas)
-├── RESUMO-EXECUTIVO.md ⭐
+├── ⭐ ARQUIVOS PRINCIPAIS
+│   ├── ESTRUTURA-CURSO.md        (Visão geral das 5 aulas)
+│   ├── RESUMO-EXECUTIVO.md       (Síntese para participantes)
+│   ├── APOSTILA-COMPLETA.md      (Todo conteúdo consolidado)
+│   └── APOSTILA-CURSO-LIDERANCA-ADMC.pdf (Para impressão)
 │
-├── SLIDES-AULA-1.md (Pr. Leivyson - Tipos de Obreiros)
-├── SLIDES-ENCONTRO-1.md (Pb. Adeilson - Aula 2)
-├── SLIDES-ENCONTRO-2.md (Pb. Adeilson - Aula 3)
-├── SLIDES-AULA-4.md (Pr. Leivyson - Submissão/Dízimos)
-├── SLIDES-AULA-5.md (Pr. Leivyson - Crianças)
+├── 🎬 SLIDES (Markdown)
+│   ├── SLIDES-AULA-1.md          (Pr. Leivyson - Tipos de Obreiros)
+│   ├── SLIDES-AULA-2.md          (Pb. Adeilson - Liderança Servidora)
+│   ├── SLIDES-AULA-3.md          (Pb. Adeilson - Multiplicação)
+│   ├── SLIDES-AULA-4.md          (Pr. Leivyson - Submissão/Dízimos)
+│   └── SLIDES-AULA-5.md          (Pr. Leivyson - Crianças)
 │
-├── DINAMICAS-PRATICAS.md
-├── GUIA-IMPLEMENTACAO.md
-├── MATERIAIS-IMPRESSAO.md
-├── INDICE-COMPLETO.md
+├── 🛠️ MATERIAIS DE APOIO
+│   ├── DINAMICAS-PRATICAS.md     (Atividades de cada aula)
+│   ├── MATERIAIS-IMPRESSAO.md    (Fichas e formulários)
+│   ├── GUIA-IMPLEMENTACAO.md     (Preparação do curso)
+│   ├── GUIA-CONVERSAO-SLIDES.md  (Como fazer PowerPoint)
+│   └── INDICE-COMPLETO.md        (Navegação completa)
 │
-└── acesso-curso-jornada-do-visitante.txt
+├── 📁 slides/pptx/               (Apresentações PowerPoint)
+│
+└── 📁 referencias/               (Materiais de consulta)
+    ├── PDFs de referência
+    └── Arquivos originais
 ```
 
 ---

@@ -41,12 +41,12 @@ curso-lideranca-admc/
 │   │   ├─ Tipos de obreiros (3 João)
 │   │   └─ Dinâmica: Autoavaliação
 │   │
-│   ├── SLIDES-ENCONTRO-1.md (Pb. Adeilson - Aula 2)
+│   ├── SLIDES-AULA-2.md (Pb. Adeilson Araújo)
 │   │   ├─ 36 slides completos
 │   │   ├─ Liderança Servidora
 │   │   └─ Dinâmica: Ponte ou Barreira
 │   │
-│   ├── SLIDES-ENCONTRO-2.md (Pb. Adeilson - Aula 3)
+│   ├── SLIDES-AULA-3.md (Pb. Adeilson Araújo)
 │   │   ├─ 46 slides completos
 │   │   ├─ Liderança que Multiplica
 │   │   └─ Dinâmica: Plano de Multiplicação
